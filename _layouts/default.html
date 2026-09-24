@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+  <meta name="description"
+        content="{{ site.description }}">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }}
+    {% else %}
+      {{ page.title }} · {{ site.title }}
+    {% endif %}
+  </title>
+
+  <link rel="stylesheet"
+        href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <link rel="preconnect"
+        href="https://fonts.googleapis.com">
+
+  <link rel="preconnect"
+        href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@500;600&display=swap"
+        rel="stylesheet">
+
+</head>
+
+<body>
+
+<header class="site-header">
+
+  <div class="container navigation">
+
+    <a class="site-name"
+       href="{{ '/' | relative_url }}">
+      JUAN PEREZ
+    </a>
+
+    <nav>
+
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/research/' | relative_url }}">Research</a>
+      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a href="{{ '/projects/' | relative_url }}">Projects</a>
+      <a href="{{ '/cv/' | relative_url }}">CV</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+
+    </nav>
+
+  </div>
+
+</header>
+
+<main>
+
+  <div class="container">
+
+    {{ content }}
+
+  </div>
+
+</main>
+
+<footer class="site-footer">
+
+  <div class="container footer-content">
+
+    <div>
+
+      <strong>Juan Perez</strong>
+
+      <p>
+        Researcher · Atmospheric Science · Climate Modeling
+      </p>
+
+    </div>
+
+    <div class="footer-links">
+
+      <a href="mailto:juan.perez@example.edu">Email</a>
+      <a href="#">Google Scholar</a>
+      <a href="#">ORCID</a>
+      <a href="#">GitHub</a>
+      <a href="#">LinkedIn</a>
+
+    </div>
+
+  </div>
+
+  <div class="container copyright">
+
+    © {{ 'now' | date: "%Y" }} Juan Perez
+
+  </div>
+
+</footer>
+
+</body>
+
+</html>
