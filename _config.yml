@@ -1,0 +1,25 @@
+title: "Juan Perez"
+description: "Researcher in atmospheric science, climate modeling, and data analysis"
+
+url: "https://almanzav.github.io"
+baseurl: ""
+
+author:
+  name: "Juan Perez"
+  email: "juan.perez@example.edu"
+  affiliation: "Instituto Fleming"
+  location: "Ciudad Ciencia, Portugal"
+
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
