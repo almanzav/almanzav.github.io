@@ -1,394 +1,214 @@
 ---
-layout: default
+layout: page
 title: Publications
 permalink: /publications/
 ---
 
-<div class="page-header">
+# Publications
 
-  <p class="section-label">PUBLICATIONS</p>
+My research publications address atmospheric composition, air quality modeling, data assimilation, emissions, pollutant transport, satellite observations, and the interaction between meteorology and air pollution, with particular emphasis on Mexico and the Megalopolis of Central Mexico.
 
-  <h1>Publications</h1>
+---
 
-  <p>
-    Selected peer-reviewed publications on atmospheric science,
-    air quality, climate modeling, and environmental data analysis.
-  </p>
+## Selected Publications
 
-</div>
+### 2025
 
+**Maldonado-Paccheco, G., Almanza, V., Ruiz-Suárez, L. G., & García-Reynoso, A.**  
+*Assimilating chemical observations in the Mexico City Metropolitan Area using WRFDA-Chem.*  
+**Geofísica Internacional** (2025).
 
-<section class="publication-list">
+---
 
-  <div class="publication-year">
-    2026
-  </div>
+### 2024
 
-  <article class="publication">
+**Taquet, N., Stremme, W., González del Castillo, M. E., Almanza, V., Bezanilla, A., Laurent, O., Alberti, C., Hase, F., Ramonet, M., Lauvaux, T., Che, K., & Grutter, M.**  
+*CO₂ and CO temporal variability over Mexico City from ground-based total column and surface measurements.*  
+**Atmospheric Chemistry and Physics**, 24, 11823–11848 (2024).  
+[DOI](https://doi.org/10.5194/acp-24-11823-2024)
 
-    <h2>
-      Assessment of Carbonyl Compound Levels in Indoor Environments
-      of Residential Buildings in Mexico City: Case Study on the
-      Effects on Health and Quality of Life During Remote Work
-    </h2>
+**Almanza, V., Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.**  
+*Influence of biomass burning on ozone levels in the Megalopolis of Central Mexico during the COVID-19 lockdown.*  
+**Journal of Environmental Sciences**, 143, 99–115 (2024).  
+[DOI](https://doi.org/10.1016/j.jes.2023.07.031)
 
-    <p class="authors">
-      Garcia, R.; Andraca, G. L.; Cerón, J. G.; Cerón, R. M.;
-      Espinosa Fuentes, M. L.; Schiavo, B.; <strong>Almanza-Veloz, V.</strong>;
-      Barrera-Huertas, H.; Torres-Jardón, R.; Mugica-Alvarez, V.
-    </p>
+---
 
-    <p class="journal">
-      <em>Sustainability</em>, 18(1), 270, 2026.
-    </p>
+### 2021
 
-    <div class="publication-links">
+**Zavala-Araiza, D., Omara, M., Gautam, R., Smith, M., Pandey, S., Aben, I., Almanza-Veloz, V., et al.**  
+*A tale of two regions: Methane emissions from oil and gas production in offshore/onshore Mexico.*  
+**Environmental Research Letters**, 16, 024019 (2021).
 
-      <a href="https://doi.org/10.3390/su18010270" target="_blank">
-        DOI →
-      </a>
+---
 
-    </div>
+### 2014
 
-  </article>
+**Almanza, V. H., Molina, L. T., Li, G., Fast, J., & Sosa, G.**  
+*Impact of external industrial sources on the regional and local SO₂ and O₃ levels of the Mexico megacity.*  
+**Atmospheric Chemistry and Physics**, 14, 8483–8499 (2014).
 
+---
 
-  <article class="publication">
+## Journal Articles
 
-    <h2>
-      Advances in Operational Air Quality Forecasting for Mexico City:
-      Integration of Updated Emissions, Temporal Profiles, and Initial Conditions
-    </h2>
+### 2026
 
-    <p class="authors">
-      Garcia, A.; <strong>Almanza, V.</strong>
-    </p>
+**García, R., Andraca, G. L., Cerón, J. G., Cerón, R. M., Espinosa Fuentes, M. L., Schiavo, B., Almanza-Veloz, V., Barrera-Huertas, H., Torres-Jardón, R., & Mugica-Alvarez, V.**  
+*Assessment of Carbonyl Compound Levels in Indoor Environments of Residential Buildings in Mexico City: Case Study on the Effects on Health and Quality of Life During Remote Work.*  
+**Sustainability**, 18(1), 270 (2026).  
+[DOI](https://doi.org/10.3390/su18010270)
 
-    <p class="journal">
-      <em>Atmósfera</em>, 2026. Accepted.
-    </p>
+**García, A., & Almanza, V.**  
+*Advances in Operational Air Quality Forecasting for Mexico City: Integration of Updated Emissions, Temporal Profiles, and Initial Conditions.*  
+**Atmósfera** (2026).  
+Accepted.
 
-  </article>
+---
 
+### 2025
 
-  <div class="publication-year">
-    2025
-  </div>
+**Maldonado-Paccheco, G., Almanza, V., Ruiz-Suárez, L. G., & García-Reynoso, A.**  
+*Assimilating chemical observations in the Mexico City Metropolitan Area using WRFDA-Chem.*  
+**Geofísica Internacional** (2025).
 
-  <article class="publication">
+---
 
-    <h2>
-      Assimilating chemical observations in the Mexico City Metropolitan
-      Area using WRFDA-Chem
-    </h2>
+### 2024
 
-    <p class="authors">
-      Maldonado-Paccheco, G.; <strong>Almanza, V.</strong>;
-      Ruiz-Suárez, L. G.; García-Reynoso, G.
-    </p>
+**Taquet, N., Stremme, W., González del Castillo, M. E., Almanza, V., Bezanilla, A., Laurent, O., Alberti, C., Hase, F., Ramonet, M., Lauvaux, T., Che, K., & Grutter, M.**  
+*CO₂ and CO temporal variability over Mexico City from ground-based total column and surface measurements.*  
+**Atmospheric Chemistry and Physics**, 24, 11823–11848 (2024).  
+[DOI](https://doi.org/10.5194/acp-24-11823-2024)
 
-    <p class="journal">
-      <em>Geofísica Internacional</em>, 2025.
-    </p>
+**Almanza, V., Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.**  
+*Influence of biomass burning on ozone levels in the Megalopolis of Central Mexico during the COVID-19 lockdown.*  
+**Journal of Environmental Sciences**, 143, 99–115 (2024).  
+[DOI](https://doi.org/10.1016/j.jes.2023.07.031)
 
-  </article>
+**García, A., Almanza, V., Tejeda, D., & Alvarado-Castillo, M.**  
+*Impact of the No-Driving Day Program on Air Quality in a High-Altitude Tropical City: The Case of the Toluca Valley Metropolitan Area.*  
+**Atmosphere**, 15, 437 (2024).  
+[DOI](https://doi.org/10.3390/atmos15040437)
 
+---
 
-  <div class="publication-year">
-    2024
-  </div>
+### 2023
 
-  <article class="publication">
+**Almanza Veloz, V., & García Reynoso, J. A.**  
+*A different approach to estimate air moisture.*  
+**Educación Química**, 34(4) (2023).
 
-    <h2>
-      CO<sub>2</sub> and CO temporal variability over Mexico City from
-      ground-based total column and surface measurements
-    </h2>
+---
 
-    <p class="authors">
-      Taquet, N.; Stremme, W.; González del Castillo, M. E.;
-      <strong>Almanza, V.</strong>; Bezanilla, A.; Laurent, O.;
-      Alberti, C.; Hase, F.; Ramonet, M.; Lauvaux, T.; Che, K.
-    </p>
+### 2021
 
-    <p class="journal">
-      <em>Atmospheric Chemistry and Physics</em>, 24, 11823–11848, 2024.
-    </p>
+**Zavala-Araiza, D., Omara, M., Gautam, R., Smith, M., Pandey, S., Aben, I., Almanza-Veloz, V., Conley, S., Houweling, S., Kort, E., Maasakkers, J., Molina, L., Pusuluri, A., Scarpelli, T., Schwietzke, S., Shen, L., Zavala, M., & Hamburg, S.**  
+*A tale of two regions: Methane emissions from oil and gas production in offshore/onshore Mexico.*  
+**Environmental Research Letters**, 16, 024019 (2021).
 
-    <div class="publication-links">
+**Hernandez-Paniagua, I., Valdez, I., Almanza, V., Rivera, C., Grutter, M., Stremme, W., García, A., & Ruiz-Suarez, L. G.**  
+*Impact of the COVID-19 Lockdown on Air Quality and Resulting Public Health Benefits in the Mexico City Metropolitan Area.*  
+**Frontiers in Public Health**, 9, 642630 (2021).
 
-      <a href="https://doi.org/10.5194/acp-24-11823-2024" target="_blank">
-        DOI →
-      </a>
+---
 
-    </div>
+### 2020
 
-  </article>
+**Aguilar-Dodier, L. C., Castillo, J. E., Quintana, P. J., Montoya, L., Molina, L., Zavala, M., Almanza-Veloz, V., & Rodríguez-Ventura, J. G.**  
+*Spatial and temporal evaluation of H₂S, SO₂ and NH₃ concentrations near Cerro Prieto geothermal power plant in Mexico.*  
+**Atmospheric Pollution Research**, 11(1), 94–104 (2020).
 
+---
 
-  <article class="publication">
+### 2016
 
-    <h2>
-      Influence of biomass burning on ozone levels in the Megalopolis
-      of Central Mexico during the COVID-19 lockdown
-    </h2>
+**Salcedo, D., Castro, T., Bernal, J. P., Almanza-Veloz, V., Zavala, M., González-Castillo, E., Saavedra, M. I., Perez-Arvizu, O., Díaz-Trujillo, G. C., & Molina, L. T.**  
+*Using trace element content and lead isotopic composition to assess sources of PM in Tijuana, Mexico.*  
+**Atmospheric Environment**, 132, 171–178 (2016).
 
-    <p class="authors">
-      <strong>Almanza, V.</strong>; Ruiz-Suárez, G.; Torres-Jardón, R.;
-      García-Reynoso, A.; Hernández-Paniagua, I. Y.
-    </p>
+---
 
-    <p class="journal">
-      <em>Journal of Environmental Sciences</em>, 143, 99–115, 2024.
-    </p>
+### 2014
 
-    <div class="publication-links">
+**Almanza, V. H., Molina, L. T., Li, G., Fast, J., & Sosa, G.**  
+*Impact of external industrial sources on the regional and local SO₂ and O₃ levels of the Mexico megacity.*  
+**Atmospheric Chemistry and Physics**, 14, 8483–8499 (2014).
 
-      <a href="https://doi.org/10.1016/j.jes.2023.07.031" target="_blank">
-        DOI →
-      </a>
+**Almanza, V. H., Batyrshin, I., & Sosa, G.**  
+*Multi-criteria selection of an air quality model configuration based on quantitative and linguistic evaluations.*  
+**Expert Systems with Applications**, 41, 869–876 (2014).
 
-    </div>
+---
 
-  </article>
+### 2012
 
+**Almanza, V. H., Molina, L. T., & Sosa, G.**  
+*Soot and SO₂ contribution to the supersites in the MILAGRO campaign from elevated flares in the Tula Refinery.*  
+**Atmospheric Chemistry and Physics**, 12, 10583–10599 (2012).
 
-  <article class="publication">
+---
 
-    <h2>
-      Impact of the No-Driving Day Program on Air Quality in a
-      High-Altitude Tropical City: The Case of the Toluca Valley
-      Metropolitan Area
-    </h2>
+### 2005
 
-    <p class="authors">
-      Garcia, A.; <strong>Almanza, V.</strong>; Tejeda, D.;
-      Alvarado-Castillo, M.
-    </p>
+**Almanza-Veloz, V. H., & Cabrera-Llanos, A. I.**  
+*Reconstrucción del atractor para un contaminante primario de la zona metropolitana de la ciudad de México.*  
+**Revista Mexicana de Física**, 51(2), 22–31 (2005).
 
-    <p class="journal">
-      <em>Atmosphere</em>, 15, 437, 2024.
-    </p>
+---
 
-    <div class="publication-links">
+## Under Review
 
-      <a href="https://doi.org/10.3390/atmos15040437" target="_blank">
-        DOI →
-      </a>
+**Arellano-Hernández, J., Almanza, V., Jazcilevich, A., Rojas-Rueda, D., Ruiz-Suárez, L. G., García, A., & Hernández-Paniagua, I. Y.**  
+*Use of public health benefits to design air pollution emission abatement strategies.*  
+**Scientific Reports**.  
+Under review, November 2025.
 
-    </div>
+---
 
-  </article>
+## Manuscripts in Preparation
 
+**Almanza, V., García-Reynoso, A., Wellens, A., Tejeda, D., & Alvarez, M.**  
+*Emissions from Coahuila Carboelectric Power Plant in the US-Mexico Border.*  
+Manuscript in preparation.
 
-  <div class="publication-year">
-    2023
-  </div>
+**Almanza, V., Maldonado-Pacheco, G., García-Reynoso, A., & Ruiz-Suarez, L. G.**  
+*Long-term analysis of air stagnation conditions in the Mexico Megacity during ozone episodes in 2010–2025.*  
+Manuscript in preparation.
 
-  <article class="publication">
+---
 
-    <h2>
-      A different approach to estimate air moisture
-    </h2>
+## Book Chapters
 
-    <p class="authors">
-      <strong>Almanza Veloz, V.</strong>; García Reynoso, J. A.
-    </p>
+**Turrent Thompson, C., Almanza Veloz, V., García Reynoso, A., Domínguez Pérez, A., & Méndez Turrubiates, R.**  
+*Escenarios atmosféricos para el transporte de contaminantes desde puntos de emisión en el Golfo de México.*  
+In P. Pérez Brunius, C. Turrent Thompson & P. García Carrillo (Eds.), **Escenarios oceánicos y atmosféricos de un derrame de petróleo en aguas profundas del Golfo de México**, pp. 129–162. Ensenada: CICESE (2020).
 
-    <p class="journal">
-      <em>Educación Química</em>, 34(4), 2023.
-    </p>
+**Molina, L. T., Lei, W., Zavala, M., Almanza, V., Garcia, A., Saide, P., & Mena-Carrasco, M.**  
+*Atmospheric Pollution: Experience from Mexico City and Santiago de Chile.*  
+In C. Mensink, W. Gong & A. Hakami (Eds.), **Air Pollution Modeling and its Application XXVI**. Springer Proceedings in Complexity (2018).
 
-  </article>
+---
 
+## Conference Proceedings
 
-  <div class="publication-year">
-    2021
-  </div>
+**Almanza, V., & García, A.**  
+*The COVID-19 lockdown period in the Mexico Megalopolis: impact on Surface SOA and ozone.*  
+20th Annual CMAS Conference, Chapel Hill, NC, 2021.
 
-  <article class="publication">
+**Almanza, V., & Batyrshin, I.**  
+*On trend association analysis of time series of atmospheric pollutants and meteorological variables in Mexico City Metropolitan Area.*  
+In **Lecture Notes in Computer Science**, vol. 6718, pp. 95–102. Springer (2011).
 
-    <h2>
-      A tale of two regions: Methane emissions from oil and gas
-      production in offshore/onshore Mexico
-    </h2>
+**Muñoz, D. A., Almanza, V., & del-Río, C. J.**  
+*Multifractal analysis of aging and complexity in heartbeat time series.*  
+**Medical Physics: Eight Mexican Symposium on Medical Physics**. American Institute of Physics (2004).
 
-    <p class="authors">
-      Zavala-Araiza, D.; Omara, M.; Gautam, R.; Smith, M.; Pandey, S.;
-      Aben, I.; <strong>Almanza-Veloz, V.</strong>; Conley, S.;
-      Houweling, S.; Kort, E.; Maasakkers, J.; Molina, L.;
-      Pusuluri, A.; Scarpelli, T.; Schwietzke, S.; Shen, L.;
-      Zavala, M.; Hamburg, S.
-    </p>
+---
 
-    <p class="journal">
-      <em>Environmental Research Letters</em>, 16, 024019, 2021.
-    </p>
+## Other Publications
 
-  </article>
-
-
-  <article class="publication">
-
-    <h2>
-      Impact of the COVID-19 Lockdown on Air Quality and Resulting
-      Public Health Benefits in the Mexico City Metropolitan Area
-    </h2>
-
-    <p class="authors">
-      Hernandez-Paniagua, I.; Valdez, I.; <strong>Almanza, V.</strong>;
-      Rivera, C.; Grutter, M.; Stremme, W.; García, A.;
-      Ruiz-Suarez, L. G.
-    </p>
-
-    <p class="journal">
-      <em>Frontiers in Public Health</em>, 9, 642630, 2021.
-    </p>
-
-  </article>
-
-
-  <div class="publication-year">
-    2020
-  </div>
-
-  <article class="publication">
-
-    <h2>
-      Spatial and temporal evaluation of H<sub>2</sub>S, SO<sub>2</sub>
-      and NH<sub>3</sub> concentrations near Cerro Prieto geothermal
-      power plant in Mexico
-    </h2>
-
-    <p class="authors">
-      Aguilar-Dodier, L. C.; Castillo, J. E.; Quintana, P. J.;
-      Montoya, L.; Molina, L.; Zavala, M.; <strong>Almanza-Veloz, V.</strong>;
-      Rodríguez-Ventura, J. G.
-    </p>
-
-    <p class="journal">
-      <em>Atmospheric Pollution Research</em>, 11(1), 94–104, 2020.
-    </p>
-
-  </article>
-
-
-  <div class="publication-year">
-    2016
-  </div>
-
-  <article class="publication">
-
-    <h2>
-      Using trace element content and lead isotopic composition to
-      assess sources of PM in Tijuana, Mexico
-    </h2>
-
-    <p class="authors">
-      Salcedo, D.; Castro, T.; Bernal, J. P.; <strong>Almanza-Veloz, V.</strong>;
-      Zavala, M.; González-Castillo, E.; Saavedra, M. I.;
-      Perez-Arvizu, O.; Díaz-Trujillo, G. C.; Molina, L. T.
-    </p>
-
-    <p class="journal">
-      <em>Atmospheric Environment</em>, 132, 171–178, 2016.
-    </p>
-
-  </article>
-
-
-  <div class="publication-year">
-    2014
-  </div>
-
-  <article class="publication">
-
-    <h2>
-      Impact of external industrial sources on the regional and local
-      SO<sub>2</sub> and O<sub>3</sub> levels of the Mexico megacity
-    </h2>
-
-    <p class="authors">
-      <strong>Almanza, V. H.</strong>; Molina, L. T.; Li, G.;
-      Fast, J.; Sosa, G.
-    </p>
-
-    <p class="journal">
-      <em>Atmospheric Chemistry and Physics</em>, 14, 8483–8499, 2014.
-    </p>
-
-  </article>
-
-
-  <article class="publication">
-
-    <h2>
-      Multi-criteria selection of an air quality model configuration
-      based on quantitative and linguistic evaluations
-    </h2>
-
-    <p class="authors">
-      <strong>Almanza, V. H.</strong>; Batyrshin, I.; Sosa, G.
-    </p>
-
-    <p class="journal">
-      <em>Expert Systems with Applications</em>, 41, 869–876, 2014.
-    </p>
-
-  </article>
-
-
-  <div class="publication-year">
-    2012
-  </div>
-
-  <article class="publication">
-
-    <h2>
-      Soot and SO<sub>2</sub> contribution to the supersites in the
-      MILAGRO campaign from elevated flares in the Tula Refinery
-    </h2>
-
-    <p class="authors">
-      <strong>Almanza, V. H.</strong>; Molina, L. T.; Sosa, G.
-    </p>
-
-    <p class="journal">
-      <em>Atmospheric Chemistry and Physics</em>, 12, 10583–10599, 2012.
-    </p>
-
-  </article>
-
-
-  <div class="publication-year">
-    2005
-  </div>
-
-  <article class="publication">
-
-    <h2>
-      Reconstrucción del atractor para un contaminante primario de la
-      zona metropolitana de la ciudad de México
-    </h2>
-
-    <p class="authors">
-      <strong>Almanza-Veloz, V. H.</strong>; Cabrera-Llanos, A. I.
-    </p>
-
-    <p class="journal">
-      <em>Revista Mexicana de Física</em>, 51(2), 22–31, 2005.
-    </p>
-
-  </article>
-
-</section>
-
-
-<div class="notice">
-
-  <p>
-    For complete bibliographic information, please refer to the
-    corresponding journal publications.
-  </p>
-
-</div>
+**García-Reynoso, J. A., Almanza-Veloz, V., & Torres-Jardón, R.**  
+*La contaminación por ozono en la Ciudad de México: cómo podemos controlarla?*  
+**Enseñanza y Comunicación de las Geociencias**, 2(2), 24–27 (2023).  
+[DOI](https://doi.org/10.22201/cgeo.29928087e.2023.2.2.5)
