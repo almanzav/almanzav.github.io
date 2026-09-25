@@ -112,6 +112,7 @@ Investigation of the ozone formation potential of carbonyl compounds and their r
 
 ### Black Carbon and Urban and Regional Air Quality
 
+**Principal Investigator:** Luisa Molina
 **Role:** Collaborator  
 **Funding:** National Science Foundation (NSF)  
 **Period:** 2016–2020
@@ -122,6 +123,7 @@ Assessment of the impacts of black carbon emissions on urban and regional air qu
 
 ### Methane Emissions from Oil and Gas Activities in Mexico
 
+**Principal Investigator:** Luisa Molina
 **Role:** Collaborator  
 **Funding:** Environmental Defense Fund (EDF)  
 **Period:** 2017
@@ -130,10 +132,22 @@ Research on methane emissions from oil and gas infrastructure in Mexico using at
 
 ---
 
+### Evaluation of Ozone Impacts of Emission Control Strategies in the Megalopolis
+
+**Principal Investigator:** Luisa Molina  
+**Role:** Collaborator  
+**Funding:** Comisión Ambiental de la Megalópolis (CAMe)  
+**Period:** 2017
+
+Evaluation of the impacts of integrated emission-control strategies on ozone concentrations in the Megalopolis of Central Mexico.
+
+---
+
 ### Integrated Responses to Short-Lived Climate Forcers
 
+**Principal Investigator:** Luisa Molina
 **Role:** Collaborator  
-**Funding:** Global Environment Facility (GEF)  
+**Funding:** Global Environment Facility (GEF) UNEP 
 **Period:** 2012–2016
 
 Research on short-lived climate forcers and integrated strategies for clean energy and energy efficiency, including applications to atmospheric composition and air quality in Mexico.
@@ -150,8 +164,9 @@ Research addressing air quality and atmospheric processes in the central region 
 
 ---
 
-### Atmospheric Pollution from Maritime Transportation
+### Reducing Emissions from Goods Movement via Maritime Transportation in North America
 
+**Principal Investigator:** Luisa Molina  
 **Role:** Collaborator  
 **Funding:** Commission for Environmental Cooperation (CEC)  
 **Period:** 2014
