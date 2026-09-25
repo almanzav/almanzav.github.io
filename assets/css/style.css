@@ -660,3 +660,56 @@ a {
 .project-links a:hover {
   color: var(--navy);
 }
+
+/* =========================================
+   Research Theme Cards
+   ========================================= */
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0 3rem;
+}
+
+.research-card {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1.5rem 1.6rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.research-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.research-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  color: #1f4e79;
+  font-size: 1.15rem;
+}
+
+.research-card p {
+  margin-bottom: 0;
+  line-height: 1.65;
+  color: #4a5568;
+}
+
+
+/* =========================================
+   Responsive layout
+   ========================================= */
+
+@media (max-width: 700px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .research-card {
+    padding: 1.25rem;
+  }
+}
