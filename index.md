@@ -145,3 +145,114 @@ title: Home
   </div>
 
 </section>
+
+<section class="latest-section">
+
+  <p class="section-label">SELECTED PUBLICATIONS</p>
+
+  <h2>Recent research</h2>
+
+  <div class="publication">
+
+    <h2>
+      CO<sub>2</sub> and CO temporal variability over Mexico City
+      from ground-based total column and surface measurements
+    </h2>
+
+    <p class="authors">
+      Taquet, N.; Stremme, W.; González del Castillo, M. E.;
+      <strong>Almanza, V.</strong>; et al.
+    </p>
+
+    <p class="journal">
+      <em>Atmospheric Chemistry and Physics</em>, 24, 11823–11848, 2024.
+    </p>
+
+    <div class="publication-links">
+
+      <a href="https://doi.org/10.5194/acp-24-11823-2024"
+         target="_blank">
+        DOI →
+      </a>
+
+    </div>
+
+  </div>
+
+
+  <div class="publication">
+
+    <h2>
+      Influence of biomass burning on ozone levels in the Megalopolis
+      of Central Mexico during the COVID-19 lockdown
+    </h2>
+
+    <p class="authors">
+      <strong>Almanza, V.</strong>; Ruiz-Suárez, G.; Torres-Jardón, R.;
+      García-Reynoso, A.; Hernández-Paniagua, I. Y.
+    </p>
+
+    <p class="journal">
+      <em>Journal of Environmental Sciences</em>, 143, 99–115, 2024.
+    </p>
+
+    <div class="publication-links">
+
+      <a href="https://doi.org/10.1016/j.jes.2023.07.031"
+         target="_blank">
+        DOI →
+      </a>
+
+    </div>
+
+  </div>
+
+
+  <div class="publication">
+
+    <h2>
+      A tale of two regions: Methane emissions from oil and gas
+      production in offshore/onshore Mexico
+    </h2>
+
+    <p class="authors">
+      Zavala-Araiza, D.; Omara, M.; Gautam, R.; Smith, M.; et al.
+      <strong>Almanza-Veloz, V.</strong>; et al.
+    </p>
+
+    <p class="journal">
+      <em>Environmental Research Letters</em>, 16, 024019, 2021.
+    </p>
+
+  </div>
+
+
+  <div class="publication">
+
+    <h2>
+      Impact of external industrial sources on the regional and local
+      SO<sub>2</sub> and O<sub>3</sub> levels of the Mexico megacity
+    </h2>
+
+    <p class="authors">
+      <strong>Almanza, V. H.</strong>; Molina, L. T.; Li, G.;
+      Fast, J.; Sosa, G.
+    </p>
+
+    <p class="journal">
+      <em>Atmospheric Chemistry and Physics</em>, 14, 8483–8499, 2014.
+    </p>
+
+  </div>
+
+
+  <p style="margin-top: 35px;">
+
+    <a class="text-link"
+       href="{{ '/publications/' | relative_url }}">
+      View all publications →
+    </a>
+
+  </p>
+
+</section>
