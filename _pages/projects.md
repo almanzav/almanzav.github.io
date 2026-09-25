@@ -1,267 +1,366 @@
 ---
-layout: default
+layout: page
 title: Research Projects
-permalink: /projects/
+permalink: /research/projects/
 ---
 
-<div class="page-header">
+# Research Projects
 
-  <p class="section-label">RESEARCH PROJECTS</p>
+My research focuses on atmospheric composition, air quality modeling, data assimilation, and the use of observations and computational methods to better understand and predict air pollution in urban and regional environments.
 
-  <h1>Research Projects</h1>
+A central focus of my work is the **Megalopolis of Central Mexico**, where I combine numerical modeling, surface observations, satellite measurements, data assimilation, and statistical and machine-learning methods to investigate atmospheric processes and improve air quality forecasting.
 
-  <p>
-    Selected research projects and scientific collaborations
-    involving atmospheric observations, numerical modeling,
-    emissions, and air quality analysis.
-  </p>
+---
 
-</div>
+## Research Areas
 
+### Air Quality Modeling and Forecasting
 
-<section class="project-list">
+I develop and evaluate numerical modeling approaches for understanding and forecasting air quality in urban and regional environments.
 
+My work includes the use of chemical transport models and coupled meteorological-chemical models to investigate the evolution of ozone, particulate matter, and other atmospheric pollutants.
 
-  <article class="project">
+Key activities include:
 
-    <div class="project-number">
-      01
-    </div>
+- Numerical modeling of urban and regional air quality.
+- Operational air quality forecasting.
+- Evaluation of meteorological and chemical model performance.
+- Analysis of model sensitivity to emissions and initial conditions.
+- Comparison of model simulations with surface monitoring networks and satellite observations.
+- Development of computational workflows for reproducible atmospheric modeling.
 
-    <div>
+Models and tools used in this research include **WRF-Chem**, **WRF-CMAQ**, and related atmospheric modeling systems.
 
-      <p class="project-category">
-        AIR QUALITY · NUMERICAL MODELING
-      </p>
+---
 
-      <h2>
-        Air Quality Modeling and Forecasting in Mexico City
-      </h2>
+### Atmospheric Data Assimilation
 
-      <p>
-        Research focused on the development, evaluation, and
-        improvement of air quality modeling approaches for the
-        Mexico City Metropolitan Area. The work includes the
-        representation of emissions, temporal profiles, initial
-        conditions, and atmospheric chemical processes.
-      </p>
+A major component of my current research is the integration of atmospheric observations into numerical models through data assimilation.
 
-      <p>
-        Recent work includes the assimilation of chemical observations
-        using WRFDA-Chem and advances in operational air quality
-        forecasting.
-      </p>
+The objective is to improve the representation of the atmospheric state by combining observations with information provided by numerical models.
 
-      <div class="project-links">
+Current and recent work includes:
 
-        <a href="{{ '/publications/' | relative_url }}">
-          Publications →
-        </a>
+- Variational data assimilation.
+- Ensemble-based data assimilation.
+- Ensemble Kalman Filter (EnKF) approaches.
+- Assimilation of meteorological and chemical observations.
+- Development of observation operators.
+- Assimilation of satellite observations of atmospheric composition.
+- Application of WRFDA-Chem and DART-based methodologies.
 
-      </div>
+Particular emphasis is placed on the assimilation of **CO and NO₂ observations** over the Megalopolis of Central Mexico.
 
-    </div>
+---
 
-  </article>
+### Satellite Observations and Atmospheric Composition
 
+Satellite observations provide an important source of information for investigating the spatial and temporal variability of atmospheric composition.
 
-  <article class="project">
+My research uses satellite and ground-based observations to evaluate atmospheric models and investigate emissions and transport processes.
 
-    <div class="project-number">
-      02
-    </div>
+Observational datasets and instruments involved in this work include:
 
-    <div>
+- TROPOMI
+- OMI
+- TEMPO
+- Ground-based FTIR observations
+- Surface air quality monitoring networks
 
-      <p class="project-category">
-        ATMOSPHERIC CHEMISTRY · EMISSIONS
-      </p>
+Research topics include:
 
-      <h2>
-        Atmospheric Composition and Emission Sources
-      </h2>
+- Atmospheric CO and NO₂.
+- Spatial and temporal variability of trace gases.
+- Satellite-based evaluation of model simulations.
+- Evaluation of emission inventories.
+- Identification of pollution transport.
+- Integration of satellite observations into data assimilation systems.
 
-      <p>
-        Investigation of the contribution of different emission
-        sources to atmospheric composition and air quality in urban
-        and regional environments.
-      </p>
+---
 
-      <p>
-        This research has included industrial emissions, biomass
-        burning, urban activities, and regional transport, with
-        applications to ozone, sulfur dioxide, and other atmospheric
-        pollutants.
-      </p>
+### Ozone, Emissions, and Regional Atmospheric Pollution
 
-      <div class="project-links">
+I investigate the physical and chemical processes controlling air pollution episodes in urban and regional environments.
 
-        <a href="{{ '/publications/' | relative_url }}">
-          Publications →
-        </a>
+A particular emphasis is placed on ozone formation and transport in the Megalopolis of Central Mexico.
 
-      </div>
+Research topics include:
 
-    </div>
+- Ozone formation and its precursors.
+- Regional transport of pollutants.
+- Atmospheric stagnation and pollution episodes.
+- Biomass burning and wildfire impacts.
+- Industrial emission sources.
+- Effects of changes in anthropogenic emissions.
+- Interaction between meteorological conditions and air pollution.
 
-  </article>
+Recent work has examined the influence of biomass burning on ozone during the COVID-19 lockdown and the role of transported atmospheric compounds in determining ozone levels in Mexico City.
 
+---
 
-  <article class="project">
+### Machine Learning and Statistical Methods
 
-    <div class="project-number">
-      03
-    </div>
+I explore statistical and machine-learning methods as complementary tools for atmospheric modeling and prediction.
 
-    <div>
+These approaches are particularly useful for identifying systematic model errors and improving air quality forecasts.
 
-      <p class="project-category">
-        ATMOSPHERIC OBSERVATIONS
-      </p>
+Applications include:
 
-      <h2>
-        Atmospheric Observations and Urban Air Quality
-      </h2>
+- Bias correction of numerical air quality forecasts.
+- Random Forest methods.
+- Support Vector Machines (SVM).
+- Statistical analysis of atmospheric time series.
+- Classification of atmospheric stagnation conditions.
+- Integration of machine learning with numerical air quality modeling.
 
-      <p>
-        Analysis of ground-based and atmospheric measurements to
-        characterize the temporal and spatial variability of
-        atmospheric composition in urban environments.
-      </p>
+Current student projects include the application of machine learning to improve air quality forecasts and classify stagnation conditions in the Mexico City Metropolitan Area.
 
-      <p>
-        Applications include measurements of CO₂, CO, ozone,
-        particulate matter, and other atmospheric compounds.
-      </p>
+---
 
-      <div class="project-links">
+### Atmospheric Pollution and Climate
 
-        <a href="{{ '/publications/' | relative_url }}">
-          Publications →
-        </a>
+My research also includes the interaction between atmospheric pollution and climate, particularly through the study of short-lived climate forcers.
 
-      </div>
+Previous work has addressed:
 
-    </div>
+- Black carbon.
+- Sulfur dioxide.
+- Short-lived climate forcers.
+- Industrial and transportation emissions.
+- Regional atmospheric transport.
+- Interactions between air quality and climate.
 
-  </article>
+This research has involved collaborations with institutions in Mexico and the United States, including MIT and the Molina Center for Energy and the Environment.
 
+---
 
-  <article class="project">
+# Selected Research Projects
 
-    <div class="project-number">
-      04
-    </div>
+## PAN Transport and Ozone Stability in Mexico City
 
-    <div>
+**2026–present · PAPIIT–UNAM · Principal Investigator**
 
-      <p class="project-category">
-        EMISSIONS · METHANE
-      </p>
+**Evaluating the contribution of peroxyacetyl nitrate (PAN) transported from urban areas of the Megalopolis to the stability of ozone levels in Mexico City.**
 
-      <h2>
-        Methane Emissions in Mexico
-      </h2>
+This project investigates the role of regional transport of PAN and its potential contribution to the persistence and variability of ozone concentrations in Mexico City.
 
-      <p>
-        Research examining methane emissions associated with oil and
-        gas production in Mexico, including the analysis of regional
-        emission patterns and atmospheric observations.
-      </p>
+The project combines atmospheric chemistry, numerical modeling, meteorological analysis, and observations to investigate the processes controlling ozone during pollution episodes.
 
-      <div class="project-links">
+**Research topics:** ozone · PAN · atmospheric transport · photochemistry · Megalopolis of Central Mexico
 
-        <a href="{{ '/publications/' | relative_url }}">
-          Publication →
-        </a>
+---
 
-      </div>
+## Early Warning and Air Quality Forecasting for the Megalopolis
 
-    </div>
+**2024–present · Comisión Ambiental de la Megalópolis (CAMe) · Collaborator**
 
-  </article>
+**Ensemble-based system for early warning of pollution episodes and air quality forecasting.**
 
+I lead the component focused on the **assimilation of meteorological and atmospheric chemistry observations** for the Megalopolis of Central Mexico.
 
-  <article class="project">
+The project investigates methods for integrating observations into numerical forecasts to improve the representation of atmospheric conditions during pollution episodes.
 
-    <div class="project-number">
-      05
-    </div>
+**Research topics:** data assimilation · air quality forecasting · WRFDA-Chem · atmospheric chemistry · early warning systems
 
-    <div>
+---
 
-      <p class="project-category">
-        URBAN AIR QUALITY · HEALTH
-      </p>
+## Remote-Sensing Data Assimilation for the Megalopolis
 
-      <h2>
-        Air Quality During the COVID-19 Lockdown
-      </h2>
+**2023–2024 · PAPIIT–UNAM · IA105423 · Principal Investigator**
 
-      <p>
-        Investigation of changes in atmospheric pollutant
-        concentrations during the COVID-19 lockdown and their
-        relationship to changes in human activity and emissions.
-      </p>
+**Data assimilation of remote-sensing observations for the Megalopolis of Central Mexico.**
 
-      <p>
-        The research included analyses of air quality in the
-        Mexico City Metropolitan Area and the influence of biomass
-        burning on ozone levels.
-      </p>
+This project focused on the integration of remote-sensing observations into numerical air quality modeling systems.
 
-      <div class="project-links">
+The research included the assimilation and evaluation of atmospheric composition observations, with particular emphasis on satellite measurements of trace gases.
 
-        <a href="{{ '/publications/' | relative_url }}">
-          Publications →
-        </a>
+**Research topics:** satellite observations · data assimilation · CO · NO₂ · TROPOMI · atmospheric modeling
 
-      </div>
+---
 
-    </div>
+## Ensemble Data Assimilation for the Megalopolis
 
-  </article>
+**2022 · LANCAD-UNAM-DGTIC · Principal Investigator**
 
+**Ensemble-based data assimilation for atmospheric modeling over the Megalopolis of Central Mexico.**
 
-  <article class="project">
+This project explored ensemble methods for estimating the atmospheric state by combining numerical model information with observations.
 
-    <div class="project-number">
-      06
-    </div>
+The work contributed to the development of computational capabilities for atmospheric data assimilation and provided a basis for subsequent research using chemical observations.
 
-    <div>
+**Research topics:** EnKF · ensemble methods · atmospheric modeling · data assimilation · high-performance computing
 
-      <p class="project-category">
-        AIR QUALITY · URBAN ENVIRONMENTS
-      </p>
+---
 
-      <h2>
-        Air Quality in Mexican Metropolitan Areas
-      </h2>
+## COVID-19 Lockdown and Air Quality
 
-      <p>
-        Research on atmospheric pollution in metropolitan areas of
-        Mexico, including the Mexico City Metropolitan Area, the
-        Toluca Valley, Tijuana, and other urban and industrial regions.
-      </p>
+**2020–2021 · UNAM Supercomputing Programs · Principal Investigator**
 
-      <p>
-        The work combines measurements, modeling, and quantitative
-        analysis to investigate the factors controlling observed
-        pollutant concentrations.
-      </p>
+**Impact of the COVID-19 lockdown on ozone precursors, fine particulate matter, and secondary organic aerosols.**
 
-      <div class="project-links">
+The reduction in human mobility during the COVID-19 lockdown provided an opportunity to investigate the response of atmospheric composition to large changes in anthropogenic emissions.
 
-        <a href="{{ '/publications/' | relative_url }}">
-          Publications →
-        </a>
+This research combined numerical modeling and observations to investigate changes in ozone, PM2.5, and secondary organic aerosols across the Megalopolis of Central Mexico.
 
-      </div>
+The work also examined the role of biomass burning and regional transport in determining ozone concentrations during the lockdown period.
 
-    </div>
+**Related publication:**
 
-  </article>
+Almanza, V., Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y. (2024). *Influence of biomass burning on ozone levels in the Megalopolis of Central Mexico during the COVID-19 lockdown*. **Journal of Environmental Sciences, 143, 99–115.**
 
+---
 
-</section>
+## Remote Sensing of Trace Gases in Mexico
+
+**2024–2025 · PAPIIT–UNAM · IN106024 · Collaborator**
+
+**Remote sensing of atmospheric composition, variability, and trends of trace gases in Mexico: impact of fires and biomass burning on air quality.**
+
+This collaborative project investigates atmospheric trace gases using satellite and ground-based observations.
+
+The research includes the analysis of CO, NO₂, and other atmospheric constituents, as well as the use of satellite observations to investigate emissions, transport, and variability associated with biomass burning.
+
+**Research topics:** remote sensing · TROPOMI · TEMPO · FTIR · CO · NO₂ · biomass burning
+
+---
+
+## Atmospheric CO and CO₂ in Mexico City
+
+**2024 · Collaborative research**
+
+This research investigates the temporal variability of carbon monoxide and carbon dioxide over Mexico City using complementary ground-based total-column and surface observations.
+
+The work combines atmospheric observations with numerical and statistical analyses to investigate temporal variability and atmospheric sources.
+
+**Related publication:**
+
+Taquet, N., Stremme, W., González del Castillo, M. E., Almanza, V., et al. (2024). *CO₂ and CO temporal variability over Mexico City from ground-based total column and surface measurements*. **Atmospheric Chemistry and Physics, 24, 11823–11848.**
+
+---
+
+## Methane Emissions from Oil and Gas Production in Mexico
+
+**2017–2021 · Environmental Defense Fund and collaborators**
+
+This collaborative research investigated methane emissions associated with oil and gas infrastructure in Mexico.
+
+The work combined atmospheric observations, satellite information, and emission estimates to characterize methane emissions from oil and gas production regions.
+
+**Related publication:**
+
+Zavala-Araiza, D., Omara, M., Gautam, R., Smith, M., Pandey, S., Aben, I., Almanza-Veloz, V., et al. (2021). *A tale of two regions: Methane emissions from oil and gas production in offshore/onshore Mexico*. **Environmental Research Letters, 16, 024019.**
+
+---
+
+## Black Carbon and Urban Air Quality
+
+**2016–2020 · National Science Foundation · Collaborator**
+
+**Assessment of the impacts of black carbon emissions on urban and regional air quality and climate: Mexico case study.**
+
+This project investigated the effects of black carbon and co-pollutant emissions on urban and regional atmospheric composition.
+
+The research included numerical modeling of emissions and atmospheric transport, with a focus on understanding the effects of transportation-related emissions and their implications for air quality and climate.
+
+---
+
+## Air Quality Modeling and Capacity Building in Mexico
+
+**2019–2020 · UCMEXUS–CONACYT · Co-Principal Investigator**
+
+**Air Quality Modeling Symposium and Training Workshop for Capacity Building in Mexico.**
+
+This collaborative project focused on strengthening technical capabilities for atmospheric modeling and air quality research in Mexico.
+
+Activities included training in numerical atmospheric modeling, particularly WRF and WRF-Chem, as well as workshops aimed at developing computational and modeling capabilities among researchers and students.
+
+---
+
+## Regional and Local Impacts of Industrial Emissions
+
+Previous research has investigated the contribution of industrial sources to regional and urban air pollution in Central Mexico.
+
+One focus was the contribution of elevated flaring emissions from the **Tula Refinery** to SO₂ and particulate pollution in the Mexico City region.
+
+The research combined emission estimates and regional atmospheric modeling to investigate pollutant transport between industrial regions and the Mexico City Metropolitan Area.
+
+**Related publications:**
+
+Almanza, V. H., Molina, L. T., & Sosa, G. (2012). *Soot and SO₂ contribution to the supersites in the MILAGRO campaign from elevated flares in the Tula Refinery*. **Atmospheric Chemistry and Physics, 12, 10583–10599.**
+
+Almanza, V. H., Molina, L. T., Li, G., Fast, J., & Sosa, G. (2014). *Impact of external industrial sources on the regional and local SO₂ and O₃ levels of the Mexico megacity*. **Atmospheric Chemistry and Physics, 14, 8483–8499.**
+
+---
+
+# Current Research Directions
+
+Current research is centered on developing an integrated framework for **observation-informed air quality modeling**.
+
+The main components are:
+
+1. **Numerical modeling** of meteorology and atmospheric chemistry.
+2. **Surface and satellite observations** of atmospheric composition.
+3. **Data assimilation** to integrate observations into numerical models.
+4. **Machine learning and statistical methods** for model improvement.
+5. **High-performance computing** for regional atmospheric simulations.
+6. **Applications to air quality forecasting and early warning systems.**
+
+Together, these approaches are intended to improve our understanding of the processes controlling air pollution in Central Mexico and to support the development of more reliable atmospheric prediction systems.
+
+---
+
+# Research Infrastructure and Computational Methods
+
+My research relies on computational tools and numerical models for atmospheric science, including:
+
+- **WRF / WRF-Chem**
+- **WRFDA-Chem**
+- **DART**
+- **WRF-CMAQ**
+- Ensemble-based data assimilation
+- Variational data assimilation
+- Satellite remote sensing
+- Python and scientific computing
+- Bash-based computational workflows
+- High-performance computing
+
+I am also involved in the development of specialized software and computational tools for atmospheric data assimilation and operational air quality forecasting.
+
+One current development is an **operational air quality forecasting system based on meteorological and chemical data assimilation**, currently in an operational testing phase.
+
+---
+
+# Research Collaboration
+
+My research involves collaborations with researchers and students from universities and research institutions in Mexico and internationally.
+
+Collaborations have included:
+
+- Universidad Nacional Autónoma de México (UNAM)
+- Massachusetts Institute of Technology (MIT)
+- Molina Center for Energy and the Environment
+- University of Colorado Boulder
+- National Center for Atmospheric Research (NCAR)
+- Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE)
+- Instituto Mexicano del Petróleo (IMP)
+- Instituto Politécnico Nacional (IPN)
+- Universidad Autónoma de Nuevo León (UANL)
+- Comisión Ambiental de la Megalópolis (CAMe)
+
+---
+
+## Selected Publications
+
+The research projects described above have resulted in publications in journals including:
+
+- *Atmospheric Chemistry and Physics*
+- *Journal of Environmental Sciences*
+- *Environmental Research Letters*
+- *Atmospheric Pollution Research*
+- *Atmospheric Environment*
+- *Frontiers in Public Health*
+- *Expert Systems with Applications*
+- *Sustainability*
+- *Atmósfera*
+
+[View the complete list of publications →](/publications/)
