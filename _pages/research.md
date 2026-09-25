@@ -175,7 +175,7 @@ Current and recent projects include work on:
 - Machine learning for air quality prediction
 - Atmospheric modeling and computational capacity building
 
-[Explore Research Projects →](/research/projects/)
+[Explore Research Projects →](/projects/)
 
 ---
 
