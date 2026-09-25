@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# Research Projects
+# Projects
 
 My research projects combine atmospheric observations, numerical modeling, data assimilation, and computational methods to investigate air quality and atmospheric composition in Mexico.
 
