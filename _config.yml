@@ -1,14 +1,13 @@
-title: "Juan Perez"
-description: "Researcher in atmospheric science, climate modeling, and data analysis"
+title: "Victor Almanza Veloz"
+description: "Researcher in atmospheric science, air quality modeling and forecasting"
 
 url: "https://almanzav.github.io"
 baseurl: ""
 
 author:
-  name: "Juan Perez"
-  email: "juan.perez@example.edu"
-  affiliation: "Instituto Fleming"
-  location: "Ciudad Ciencia, Portugal"
+  name: "Victor Almanza Veloz"
+  affiliation: "Institute for Atmospheric Sciences and Climate Change, UNAM"
+  location: "Mexico"
 
 markdown: kramdown
 highlighter: rouge
@@ -23,3 +22,4 @@ defaults:
       path: ""
     values:
       layout: default
+
