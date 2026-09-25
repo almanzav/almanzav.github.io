@@ -14,8 +14,6 @@ A major focus of my work is the **Megalopolis of Central Mexico**, where I study
 
 ## Current Projects
 
-<div class="project-card">
-
 ### Evaluating the Contribution of Transported Peroxyacetyl Nitrate (PAN) from Urban Areas of the Megalopolis to Ozone Levels in Mexico City
 
 **2026–present · PAPIIT–UNAM**
@@ -25,9 +23,7 @@ A major focus of my work is the **Megalopolis of Central Mexico**, where I study
 
 This project investigates the contribution of transported peroxyacetyl nitrate (PAN) from urban areas of the Megalopolis to the stability and variability of ozone levels in Mexico City.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Ensemble for Early Warning of Pollution Episodes and Air Quality Forecasting
 
@@ -40,13 +36,9 @@ This project investigates the contribution of transported peroxyacetyl nitrate (
 
 My participation focuses on the assimilation of chemical and meteorological observations to improve the representation of atmospheric composition and support air quality forecasting.
 
-</div>
-
 ---
 
 ## Projects as Principal Investigator
-
-<div class="project-card">
 
 ### Remote Sensing Data Assimilation for the Megalopolis
 
@@ -57,9 +49,7 @@ My participation focuses on the assimilation of chemical and meteorological obse
 
 Development and application of data assimilation methods using remote-sensing observations to improve the representation of atmospheric composition over the Megalopolis of Central Mexico.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Ensemble Data Assimilation for the Megalopolis
 
@@ -70,9 +60,7 @@ Development and application of data assimilation methods using remote-sensing ob
 
 Development and application of ensemble-based data assimilation methods for atmospheric modeling over the Megalopolis of Central Mexico, using high-performance computing resources.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Impact of the COVID-19 Lockdown on Ozone Precursors, Fine Particles and Secondary Organic Aerosols
 
@@ -83,9 +71,7 @@ Development and application of ensemble-based data assimilation methods for atmo
 
 Numerical investigation of changes in atmospheric composition associated with the COVID-19 lockdown, focusing on ozone precursors, fine particulate matter, and secondary organic aerosols.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Impact of the COVID-19 Lockdown on Air Quality
 
@@ -96,13 +82,9 @@ Numerical investigation of changes in atmospheric composition associated with th
 
 Modeling of emission-sensitivity scenarios to investigate changes in ozone and fine particulate matter during the COVID-19 lockdown period in the Megalopolis of Central Mexico.
 
-</div>
-
 ---
 
 ## Collaborative Projects
-
-<div class="project-card">
 
 ### Air Quality Modeling Symposium and Training Workshop for Capacity Building in Mexico
 
@@ -113,9 +95,7 @@ Modeling of emission-sensitivity scenarios to investigate changes in ozone and f
 
 Organization and implementation of a symposium and training workshop focused on air quality modeling and capacity building in Mexico.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Remote Sensing of Atmospheric Composition, Variability and Trends of Trace Gases in Mexico
 
@@ -126,9 +106,7 @@ Organization and implementation of a symposium and training workshop focused on 
 
 Research on satellite observations of atmospheric trace gases, with emphasis on their variability, trends, and the influence of fires and biomass burning on air quality.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Ozone Formation Potential of Carbonyl Compounds and Their Relationship with Vehicle Emissions
 
@@ -139,9 +117,7 @@ Research on satellite observations of atmospheric trace gases, with emphasis on 
 
 Investigation of carbonyl compounds in the atmosphere and their potential contribution to ozone formation, including their relationship with vehicle emissions associated with oxygenated fuels.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Assessment of Human Health Risk from Anthropogenic Toxic Agents
 
@@ -152,9 +128,7 @@ Investigation of carbonyl compounds in the atmosphere and their potential contri
 
 Research addressing health risks associated with anthropogenic toxic agents in strategic environmental regions of central Mexico.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Improving Environmental Education through Numerical Simulations and High-Performance Computing
 
@@ -165,9 +139,7 @@ Research addressing health risks associated with anthropogenic toxic agents in s
 
 Development of computational and numerical simulation resources to support environmental education and training.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Photochemical Modeling of Extraordinary Measures for the Megalopolis
 
@@ -178,13 +150,9 @@ Development of computational and numerical simulation resources to support envir
 
 Application of photochemical modeling to evaluate extraordinary emission-control measures in the Megalopolis.
 
-</div>
-
 ---
 
 ## International and Previous Research Projects
-
-<div class="project-card">
 
 ### Assessment of the Impacts of Black Carbon Emissions on Urban and Regional Air Quality and Climate: Mexico Case Study
 
@@ -195,9 +163,7 @@ Application of photochemical modeling to evaluate extraordinary emission-control
 
 Research on the effects of black carbon and co-pollutant emissions on urban and regional air quality and climate in Mexico.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Improving the CalEnviroScreen Score at the US–Mexico Border
 
@@ -208,9 +174,7 @@ Research on the effects of black carbon and co-pollutant emissions on urban and 
 
 Research related to air pollution and environmental conditions in communities along the US–Mexico border.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Characterization of Oil and Gas Methane Emission Sources in Mexico
 
@@ -221,9 +185,7 @@ Research related to air pollution and environmental conditions in communities al
 
 Research on methane emissions associated with oil and gas infrastructure in Mexico.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Integrated Responses to Short-Lived Climate Forcers Promoting Clean Energy and Energy Efficiency
 
@@ -234,9 +196,7 @@ Research on methane emissions associated with oil and gas infrastructure in Mexi
 
 Research addressing short-lived climate forcers and their relationship with air quality, climate, clean energy, and energy-efficiency strategies.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Evaluation of Integrated Emission-Control Strategies for Ozone in the Megalopolis
 
@@ -247,9 +207,7 @@ Research addressing short-lived climate forcers and their relationship with air 
 
 Evaluation of the effects of integrated emission-control strategies on ozone concentrations in the Megalopolis.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Air Quality Studies and Their Impact in Central Mexico
 
@@ -260,9 +218,7 @@ Evaluation of the effects of integrated emission-control strategies on ozone con
 
 Research focused on air quality modeling and assessment in central Mexico.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Reducing Emissions from Goods Movement via Maritime Transportation in North America
 
@@ -273,9 +229,7 @@ Research focused on air quality modeling and assessment in central Mexico.
 
 Assessment of the impacts of maritime transportation emissions on air quality over Mexico.
 
-</div>
-
-<div class="project-card">
+---
 
 ### Platforms for Oceanographic Observation, Baselines, Numerical Models and Large-Scale Oil Spill Scenarios in the Gulf of Mexico
 
@@ -284,8 +238,6 @@ Assessment of the impacts of maritime transportation emissions on air quality ov
 **Role:** Collaborator
 
 Contribution to the numerical modeling component addressing atmospheric and environmental scenarios associated with large-scale oil spills in the Gulf of Mexico.
-
-</div>
 
 ---
 
