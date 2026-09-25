@@ -630,3 +630,33 @@ a {
     flex-direction: column;
   }
 }
+
+/* RESEARCH PROJECTS */
+
+.project-list {
+  max-width: 1000px;
+}
+
+.project {
+  transition: border-color 0.2s ease;
+}
+
+.project:hover {
+  border-bottom-color: var(--teal);
+}
+
+.project h2 {
+  max-width: 700px;
+}
+
+.project-category {
+  margin-bottom: 8px;
+}
+
+.project-links a {
+  transition: color 0.2s ease;
+}
+
+.project-links a:hover {
+  color: var(--navy);
+}
