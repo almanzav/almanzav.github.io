@@ -1,96 +1,21 @@
----
-layout: default
-title: About
-permalink: /about/
----
+# About Me
 
-<div class="page-header">
+I am a full-time Research Associate at the Institute for Atmospheric Sciences and Climate Change (ICAyCC), National Autonomous University of Mexico (UNAM), where I am part of the Atmospheric Physicochemistry Group.
 
-  <p class="section-label">ABOUT</p>
+My research focuses on **urban air quality modeling, atmospheric data assimilation, and the integration of observations with numerical models**. Much of my work addresses air pollution in the Mexico City Metropolitan Area and the Megalopolis of Central Mexico.
 
-  <h1>About me</h1>
+I am particularly interested in:
 
-  <p>
-    Researcher working at the intersection of atmospheric science,
-    climate modeling, and data analysis.
-  </p>
+- **Air quality modeling and forecasting**
+- **Data assimilation of atmospheric composition and meteorological observations**
+- **Satellite observations and remote sensing**
+- **Chemical transport model evaluation**
+- **Ensemble and variational methods**
+- **Machine learning for model bias reduction**
+- **Atmospheric transport and regional pollution**
 
-</div>
+My current research combines ground-based and satellite observations with numerical models to improve the representation, analysis, and prediction of atmospheric composition. I am especially interested in developing computational methods that can help bridge observations and models and provide a more accurate description of air pollution episodes.
 
+In addition to research, I am actively involved in **teaching and mentoring undergraduate and graduate students** in atmospheric sciences, numerical modeling, scientific computing, and data assimilation. I also develop and teach courses and workshops on air quality modeling and computational methods.
 
-<section class="content-section">
-
-  <p>
-    I am a researcher at the Instituto Fleming in Ciudad Ciencia,
-    Portugal. My work focuses on climate modeling and data analysis,
-    with an interest in using computational and quantitative approaches
-    to better understand atmospheric and climatic processes.
-  </p>
-
-  <p>
-    I received my doctoral degree from the University of Altiplano
-    in 2013. In 2014, I completed a postdoctoral appointment at
-    Yale University. Since 2015, I have been working as a researcher
-    at the Instituto Fleming.
-  </p>
-
-</section>
-
-
-<section class="timeline-section">
-
-  <p class="section-label">CAREER</p>
-
-  <div class="timeline-item">
-
-    <div class="timeline-year">2015–Present</div>
-
-    <div>
-      <h3>Researcher</h3>
-      <p>Instituto Fleming · Ciudad Ciencia, Portugal</p>
-    </div>
-
-  </div>
-
-
-  <div class="timeline-item">
-
-    <div class="timeline-year">2014</div>
-
-    <div>
-      <h3>Postdoctoral Researcher</h3>
-      <p>Yale University</p>
-    </div>
-
-  </div>
-
-
-  <div class="timeline-item">
-
-    <div class="timeline-year">2013</div>
-
-    <div>
-      <h3>Ph.D.</h3>
-      <p>University of Altiplano</p>
-    </div>
-
-  </div>
-
-</section>
-
-
-<section class="content-section">
-
-  <p class="section-label">RESEARCH INTERESTS</p>
-
-  <div class="tag-list">
-
-    <span>Climate Modeling</span>
-    <span>Atmospheric Science</span>
-    <span>Data Analysis</span>
-    <span>Computational Methods</span>
-    <span>Earth System Science</span>
-
-  </div>
-
-</section>
+I am based at ICAyCC-UNAM in Mexico City, Mexico.
