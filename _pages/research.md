@@ -1,177 +1,186 @@
 ---
-layout: default
+layout: page
 title: Research
 permalink: /research/
 ---
 
-<div class="page-header">
+# Research
 
-  <p class="section-label">RESEARCH</p>
+My research focuses on atmospheric composition, air quality modeling, data assimilation, and computational methods for understanding and predicting air pollution in urban and regional environments.
 
-  <h1>Research</h1>
+A central focus of my work is the **Megalopolis of Central Mexico**, where I combine numerical models, surface observations, satellite measurements, data assimilation, and statistical and machine-learning methods to investigate atmospheric processes and improve air quality forecasting.
 
-  <p>
-    My research focuses on atmospheric science, air quality,
-    atmospheric composition, and the use of numerical models
-    and observational data to understand environmental processes.
-  </p>
+---
 
-</div>
+## Research Areas
 
+### Air Quality Modeling and Forecasting
 
-<section class="content-section">
+Development and evaluation of numerical approaches for understanding and forecasting air quality in urban and regional environments.
 
-  <p class="section-label">RESEARCH APPROACH</p>
+My work includes meteorological-chemical modeling, operational air quality forecasting, model evaluation, and sensitivity studies focused on ozone, particulate matter, and their precursors.
 
-  <h2>Understanding atmospheric processes through models and observations</h2>
+**Key topics:**
 
-  <p>
-    My work combines atmospheric observations, numerical modeling,
-    and quantitative data analysis to investigate air quality and
-    atmospheric composition in complex urban and regional environments.
-  </p>
+- Urban and regional air quality modeling
+- Operational air quality forecasting
+- WRF-Chem and WRF-CMAQ
+- Meteorological and chemical model evaluation
+- Emission sensitivity studies
+- Model comparison with surface observations and satellite measurements
 
-  <p>
-    A particular focus of my research has been the Mexico City
-    Metropolitan Area and other regions of Mexico, where atmospheric
-    chemistry, emissions, meteorology, and regional transport interact
-    to determine observed air quality.
-  </p>
+---
 
-</section>
+### Atmospheric Data Assimilation
 
+Integration of atmospheric observations into numerical models to improve estimates of the atmospheric state and air quality forecasts.
 
-<section class="research-grid">
+My research includes both variational and ensemble-based approaches, with particular emphasis on atmospheric composition.
 
-  <div class="research-card">
+**Key topics:**
 
-    <div class="card-number">01</div>
+- Variational data assimilation
+- Ensemble Kalman Filter (EnKF)
+- WRFDA-Chem
+- DART
+- Meteorological and chemical data assimilation
+- Observation operators
+- Assimilation of satellite observations
 
-    <h2>Air Quality & Atmospheric Chemistry</h2>
+Current applications focus on integrating observations of **CO, NO₂, and other atmospheric constituents** over the Megalopolis of Central Mexico.
 
-    <p>
-      Investigation of atmospheric pollutants and chemical processes
-      that control air quality, including ozone, sulfur dioxide,
-      nitrogen-containing compounds, particulate matter, and other
-      atmospheric constituents.
-    </p>
+---
 
-  </div>
+### Satellite Observations and Atmospheric Composition
 
+Use of satellite and ground-based observations to characterize the spatial and temporal variability of atmospheric composition and to evaluate numerical models.
 
-  <div class="research-card">
+**Key topics:**
 
-    <div class="card-number">02</div>
+- TROPOMI
+- OMI
+- TEMPO
+- Ground-based FTIR observations
+- CO and NO₂
+- Trace gas variability
+- Satellite-based model evaluation
+- Emission inventory evaluation
+- Atmospheric transport
 
-    <h2>Atmospheric Modeling</h2>
+An important component of this research is the integration of satellite observations into atmospheric data assimilation systems.
 
-    <p>
-      Application and evaluation of numerical atmospheric models to
-      simulate pollutant concentrations, investigate emission sources,
-      and understand the interaction between meteorology and atmospheric
-      chemistry.
-    </p>
+---
 
-  </div>
+### Ozone, Emissions, and Regional Transport
 
+Investigation of the processes controlling ozone and other pollutants in urban and regional environments.
 
-  <div class="research-card">
+A particular focus is the interaction between emissions, atmospheric chemistry, meteorology, and regional transport in the Megalopolis of Central Mexico.
 
-    <div class="card-number">03</div>
+**Key topics:**
 
-    <h2>Emissions & Source Analysis</h2>
+- Ozone formation
+- Ozone precursors
+- Regional pollutant transport
+- Atmospheric stagnation
+- Pollution episodes
+- Biomass burning and wildfires
+- Industrial emissions
+- Meteorological controls on air quality
 
-    <p>
-      Analysis of the influence of anthropogenic and natural emission
-      sources on atmospheric composition, including industrial
-      emissions, biomass burning, and urban activities.
-    </p>
+---
 
-  </div>
+### Machine Learning and Statistical Methods
 
+Application of statistical and machine-learning methods to atmospheric observations and numerical model outputs.
 
-  <div class="research-card">
+These approaches are being explored as tools for improving air quality prediction and identifying systematic errors in numerical forecasts.
 
-    <div class="card-number">04</div>
+**Key topics:**
 
-    <h2>Atmospheric Observations</h2>
+- Model bias correction
+- Random Forest
+- Support Vector Machines (SVM)
+- Statistical analysis of atmospheric time series
+- Classification of atmospheric stagnation conditions
+- Machine-learning approaches for air quality forecasting
 
-    <p>
-      Analysis of ground-based and atmospheric observations to
-      characterize spatial and temporal variability in atmospheric
-      composition and to evaluate model performance.
-    </p>
+---
 
-  </div>
+### Atmospheric Pollution and Climate
 
+Research on the interactions between atmospheric pollution and climate, with emphasis on short-lived climate forcers and their effects on urban and regional atmospheric composition.
 
-  <div class="research-card">
+**Key topics:**
 
-    <div class="card-number">05</div>
+- Black carbon
+- Short-lived climate forcers
+- Sulfur dioxide
+- Transportation emissions
+- Industrial emissions
+- Regional atmospheric transport
+- Air quality and climate interactions
 
-    <h2>Air Quality Forecasting</h2>
+This research includes work conducted in collaboration with national and international research institutions.
 
-    <p>
-      Development and evaluation of operational air quality forecasting
-      approaches, including the role of emissions inventories,
-      temporal profiles, initial conditions, and data assimilation.
-    </p>
+---
 
-  </div>
+## Current Research
 
+My current research brings together atmospheric observations, numerical modeling, data assimilation, and computational methods to improve the representation and prediction of atmospheric composition.
 
-  <div class="research-card">
+Current research directions include:
 
-    <div class="card-number">06</div>
+### Data Assimilation for Air Quality Forecasting
 
-    <h2>Environmental Data Analysis</h2>
+Development of methods to incorporate meteorological and chemical observations into numerical air quality forecasting systems.
 
-    <p>
-      Quantitative analysis of atmospheric and environmental datasets
-      to identify patterns, characterize variability, and support the
-      interpretation of atmospheric processes.
-    </p>
+The objective is to improve the initial atmospheric state and, consequently, the representation and prediction of pollution episodes.
 
-  </div>
+---
 
-</section>
+### Satellite-Based Atmospheric Data Assimilation
 
+Integration of satellite observations of atmospheric composition into regional numerical models.
 
-<section class="content-section">
+Current work focuses particularly on observations of **CO and NO₂**, using instruments such as TROPOMI and TEMPO.
 
-  <p class="section-label">REGIONAL FOCUS</p>
+---
 
-  <h2>Atmospheric research in Mexico</h2>
+### Ozone and Regional Atmospheric Transport
 
-  <p>
-    A significant part of my research has focused on atmospheric
-    composition and air quality in Mexico, including Mexico City,
-    the Mexico City Metropolitan Area, the Toluca Valley, Tijuana,
-    and other regions affected by urban, industrial, and regional
-    emission sources.
-  </p>
+Investigation of the processes that control ozone levels in the Mexico City Metropolitan Area, including regional transport, atmospheric stagnation, biomass burning, and the transport of chemical precursors.
 
-</section>
+---
 
+### Machine Learning for Air Quality Prediction
 
-<section class="latest-section">
+Application of machine-learning methods to identify and reduce systematic biases in numerical air quality forecasts and to classify meteorological conditions associated with pollution episodes.
 
-  <p class="section-label">SELECTED TOPICS</p>
+---
 
-  <div class="tag-list">
+## Research Projects
 
-    <span>Air Quality</span>
-    <span>Atmospheric Chemistry</span>
-    <span>WRFDA-Chem</span>
-    <span>Emission Sources</span>
-    <span>Ozone</span>
-    <span>SO₂</span>
-    <span>CO₂</span>
-    <span>CO</span>
-    <span>Methane</span>
-    <span>Particulate Matter</span>
-    <span>Data Analysis</span>
+The research activities described above are developed through individual and collaborative projects supported by institutions including **UNAM, PAPIIT, CAMe, DGTIC-UNAM, UCMEXUS–CONACYT, NSF, CARB, and EDF**.
 
-  </div>
+Current and recent projects include work on:
 
-</section>
+- Atmospheric data assimilation for the Megalopolis of Central Mexico
+- Early warning and air quality forecasting
+- Satellite observations and atmospheric composition
+- Ozone formation and regional transport
+- Biomass burning and air quality
+- Methane emissions from oil and gas infrastructure
+- Black carbon and short-lived climate forcers
+- Machine learning for air quality prediction
+- Atmospheric modeling and computational capacity building
+
+[Explore Research Projects →](/research/projects/)
+
+---
+
+## Selected Publications
+
+Research in these areas has resulted in publications in international journals including *Atmospheric Chemistry and Physics*, *Journal of Environmental Sciences*, *Environmental Research Letters*, *Atmospheric Pollution Research*, *Atmospheric Environment*, *Frontiers in Public Health*, *Expert Systems with Applications*, and *Sustainability*.
+
+[View Selected Publications →](/publications/)
