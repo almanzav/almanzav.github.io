@@ -8,18 +8,18 @@ title: Home
   <div class="hero-text">
 
     <p class="eyebrow">
-      ATMOSPHERIC SCIENCE · CLIMATE MODELING
+      ATMOSPHERIC SCIENCE · AIR QUALITY MODELING AND FORECASTING
     </p>
 
-    <h1>Juan Perez</h1>
+    <h1>Victor Almanza Veloz</h1>
 
     <p class="hero-role">
-      Researcher at Instituto Fleming
+      Research Scientist
     </p>
 
     <p class="hero-description">
-      I study atmospheric and climate processes using climate modeling,
-      computational methods, and data analysis.
+      I work on atmospheric chemistry, air quality modeling and forecasting using
+      Data Assimilation.
     </p>
 
     <div class="hero-buttons">
@@ -65,10 +65,10 @@ title: Home
   </h2>
 
   <p>
-    I am a researcher at the Instituto Fleming in Ciudad Ciencia,
-    Portugal. My work focuses on climate modeling and data analysis,
-    with an interest in understanding atmospheric and climatic
-    processes through computational and quantitative approaches.
+    I am a researcher scientist at the Institute for Atmospheric Sciences and Climate Change,
+    UNAM, Mexico. My work focuses on air quality modeling and forecasting,
+    with an interest in understanding atmospheric composition in Central Mexico with the aim
+    of providing science-based solutions that provide societal benefits.
   </p>
 
   <a class="text-link"
@@ -94,8 +94,8 @@ title: Home
       <h3>Climate Modeling</h3>
 
       <p>
-        Climate and Earth system models to investigate atmospheric
-        and climatic processes.
+        Chemical Transport Models to investigate atmospheric
+        composition in Mexico.
       </p>
 
     </div>
