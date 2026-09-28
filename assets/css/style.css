@@ -477,9 +477,32 @@ a {
 
 .page-research-projects h3 ~ p {
   max-width: 760px;
+  margin-top: 4px;
+  margin-bottom: 0;
+
   color: var(--muted);
   font-size: 0.98rem;
-  line-height: 1.75;
+  line-height: 1.6;
+}
+
+/* Project metadata */
+
+.page-research-projects h3 + p {
+  margin-top: 4px;
+  margin-bottom: 0;
+}
+
+/* Role and Principal Investigator */
+
+.page-research-projects h3 + p + p {
+  margin-top: 2px;
+  margin-bottom: 0;
+}
+
+/* Project description */
+
+.page-research-projects h3 + p + p + p {
+  margin-top: 16px;
 }
 
 /* Metadata */
