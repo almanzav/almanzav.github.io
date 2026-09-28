@@ -423,6 +423,11 @@ a {
   max-width: 900px;
 }
 
+.page-research-projects hr {
+  border: 0;
+  margin: 55px 0;
+}
+
 /* Introductory text */
 
 .page-research-projects h1 {
