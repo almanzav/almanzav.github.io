@@ -749,3 +749,7 @@ a {
     padding: 1.25rem;
   }
 }
+
+.page-research-projects hr {
+  display: none !important;
+}
