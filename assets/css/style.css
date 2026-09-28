@@ -750,6 +750,7 @@ a {
   }
 }
 
-.page-research-projects hr {
+main.page-content hr {
   display: none !important;
 }
+
