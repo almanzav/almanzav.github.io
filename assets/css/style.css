@@ -441,10 +441,10 @@ a {
 
 .page-research-projects h2 {
   max-width: 800px;
-  margin: 125px 0 38px;
-  padding-top: 70px;
+  margin: 105px 0 38px;
+  padding-top: 0px;
 
-  border-top: 1px solid var(--border);
+  border-top: none;
 
   color: var(--navy);
   font-family: "Source Serif 4", Georgia, serif;
