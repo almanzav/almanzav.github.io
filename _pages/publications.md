@@ -42,7 +42,7 @@ Taquet, N., Stremme, W., González del Castillo, M. E., **Almanza, V.**, Bezanil
 **Almanza, V.**, Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.  
 *Influence of biomass burning on ozone levels in the Megalopolis of Central Mexico during the COVID-19 lockdown.*  
 **Journal of Environmental Sciences**, 143, 99–115 (2024).  
-<a href="https://doi.org/10.3390/atmos15040437"
+<a href="https://doi.org/10.1016/j.jes.2023.07.031"
    target="_blank"
    rel="noopener noreferrer">DOI</a>
 
@@ -92,7 +92,7 @@ García, R., Andraca, G. L., Cerón, J. G., Cerón, R. M., Espinosa Fuentes, M. 
 García, A., & **Almanza, V.**  
 *Advances in Operational Air Quality Forecasting for Mexico City: Integration of Updated Emissions, Temporal Profiles, and Initial Conditions.*  
 **Atmósfera**, 40, 153-165, (2025).  
-<a href="(https://doi.org/10.20937/ATM.53515"
+<a href="https://doi.org/10.20937/ATM.53515"
    target="_blank"
    rel="noopener noreferrer">DOI</a>
 
