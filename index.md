@@ -16,11 +16,11 @@ title: Home
     </p>
 
     <p class="home-affiliation">
-    I am a scientist at the <strong>Institute for Atmospheric Sciences and Climate Change (ICAyCC), UNAM</strong>. Before joining UNAM, I held a joint postdoctoral postion at the Massachusetts Institute of Technology (MIT) and the Molina Center for Energy and the Environment (MCE2).  My research focuses on atmospheric chemistry, air quality modeling, and data assimilation to develop operational early-warning systems aimed at responding to extreme pollution events and supporting public health decision-making<br>
+    I am a scientist at the <strong>Institute for Atmospheric Sciences and Climate Change (ICAyCC), UNAM</strong>. Before joining UNAM, I held a joint postdoctoral postion with the Massachusetts Institute of Technology (MIT) and the Molina Center for Energy and the Environment (MCE2). <br>
     <br>
-   I particularly investigate the formation and transport of secondary air pollutants through the integration of atmospheric composition observations, chemical transport modeling, high-performance computing, and advanced data assimilation techniques.<br>
+    My research focuses on atmospheric chemistry, air quality modeling, and data assimilation to develop operational early-warning systems aimed at responding to extreme pollution events and supporting public health decision-making. I particularly investigate the formation and transport of secondary air pollutants through the integration of atmospheric composition observations, chemical transport modeling and advanced data assimilation techniques with particular emphasis on processes occurring in the middle troposphere.<br>
    <br>
-   My work aims to improve the representation of atmospheric processes, strengthen air quality forecasting and response capabilities, and provide scientifically robust information to support the design and evaluation of air pollution mitigation strategies in Mexico, with particular emphasis on processes occurring in the middle troposphere.
+   My work aims to improve the representation of atmospheric processes, strengthen air quality forecasting and response, and provide actionable scientific evidence for air quality management and public health decision-making in Mexico.
     </p>
 
     <div class="hero-buttons">
