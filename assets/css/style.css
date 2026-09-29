@@ -374,15 +374,15 @@ a {
 }
 
 .publication-year {
-  color: var(--teal);
+  color: var(--blue);
   font-size: 1.1rem;
   font-weight: 700;
-  padding: 20px 0;
-  border-bottom: 2px solid var(--navy);
+  padding: 20px 0 12px;
+  border-bottom: 2px solid var(--blue);
 }
 
 .publication {
-  padding: 35px 0 50px;
+  padding: 28px 0 42px;
   border-bottom: 1px solid var(--border);
 }
 
@@ -404,17 +404,23 @@ a {
 }
 
 .publication-links a {
+  color: var(--blue);
   font-size: 0.85rem;
   font-weight: 600;
   text-decoration: none;
+}
+
+.publication-links a:hover {
+  color: var(--navy);
 }
 
 .notice {
   padding: 25px;
   margin-bottom: 80px;
   background: var(--light);
-  border-left: 3px solid var(--teal);
+  border-left: 3px solid var(--blue);
 }
+
 
 /* =========================================
    RESEARCH PROJECTS PAGE
