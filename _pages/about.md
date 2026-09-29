@@ -17,19 +17,25 @@ I am also interested in statistical and machine-learning approaches for improvin
 ## Research Interests
 
 - Air quality modeling and forecasting
-- Atmospheric data assimilation
+- Chemical data assimilation
 - Atmospheric composition and remote sensing
-- Emissions and pollutant transport
 - Atmospheric chemistry and meteorology
 - Computational and machine-learning methods
 
 ---
 
+## Scientific Committee Membership
+
+**North America Working Group for Integrated Atmospheric Chemistry Research**  
+*International Global Atmospheric Chemistry (IGAC) Project*
+
+Member of the scientific committee of the North America Working Group for Integrated Atmospheric Chemistry Research, which promotes collaboration and coordination of atmospheric chemistry research across North America.
+
+[View committee →](https://igacproject.org/index.php/activities/north-america-working-group-integrated-atmospheric-chemistry-research)
+
 ## Teaching & Mentoring
 
-I teach and supervise students at undergraduate and graduate levels at UNAM in atmospheric sciences, Earth sciences, applied mathematics, and computational science. My teaching and mentoring activities include air quality modeling, numerical modeling, data assimilation, scientific computing, and computational methods for geosciences.
-
-I have also developed and taught specialized training activities in numerical weather and air quality modeling, including WRF and WRF-Chem.
+I teach and supervise students at undergraduate and graduate levels at UNAM in atmospheric sciences, Earth sciences, applied mathematics, and computational science. My teaching and mentoring activities include air quality modeling, data assimilation, scientific computing, and computational methods for geosciences. I have also developed and taught specialized training activities in numerical weather and air quality modeling, including WRF and WRF-Chem for both industry and academia.
 
 ---
 
