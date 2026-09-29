@@ -55,12 +55,6 @@ title: Home
     predicting air pollution in urban and regional environments.
   </p>
 
-  <p>
-    A central focus of my work is the <strong>Megalopolis of Central Mexico</strong>,
-    where I combine numerical models, atmospheric observations, satellite
-    measurements, data assimilation, and statistical and machine-learning methods.
-  </p>
-
   <a class="text-link" href="{{ '/research/' | relative_url }}">
     Explore my research →
   </a>
@@ -95,8 +89,9 @@ title: Home
 
     <article class="home-publication">
       <p class="home-publication-title">
-        <strong>Maldonado-Paccheco, G., Almanza, V., Ruiz-Suárez, L. G., & García-Reynoso, A.</strong>
+       Maldonado-Paccheco, G., <strong>Almanza, V.</strong>, Ruiz-Suárez, L. G., & García-Reynoso, A.
       </p>
+      
       <p>
         <em>Assimilating chemical observations in the Mexico City Metropolitan Area using WRFDA-Chem.</em>
         Geofísica Internacional (2025).
@@ -105,7 +100,7 @@ title: Home
 
     <article class="home-publication">
       <p class="home-publication-title">
-        <strong>Taquet, N., Stremme, W., González del Castillo, M. E., Almanza, V., et al.</strong>
+        Taquet, N., Stremme, W., González del Castillo, M. E., <strong>Almanza, V.</strong>, et al.
       </p>
       <p>
         <em>CO₂ and CO temporal variability over Mexico City from ground-based total column and surface measurements.</em>
@@ -115,8 +110,7 @@ title: Home
 
     <article class="home-publication">
       <p class="home-publication-title">
-        <strong>Almanza, V., Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.</strong>
-      </p>
+       <strong>Almanza, V.</strong>, Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.
       <p>
         <em>Influence of biomass burning on ozone levels in the Megalopolis of Central Mexico during the COVID-19 lockdown.</em>
         Journal of Environmental Sciences (2024).
@@ -142,11 +136,6 @@ title: Home
     Climate Change (ICAyCC), UNAM</strong>, where I work on atmospheric
     chemistry, air quality modeling, numerical methods, and computational
     approaches to atmospheric science.
-  </p>
-
-  <p>
-    I also teach and supervise students in atmospheric sciences, Earth
-    sciences, applied mathematics, and computational science.
   </p>
 
   <a class="text-link" href="{{ '/about/' | relative_url }}">
