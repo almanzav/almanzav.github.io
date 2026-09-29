@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-I am a researcher at the Institute of Atmospheric Sciences and Climate Change (ICAyCC), National Autonomous University of Mexico (UNAM).My research focuses on atmospheric chemistry, air quality modeling, and data assimilation to develop operational early-warning systems for extreme pollution events and public health decision-making.
+I am a researcher at the Institute of Atmospheric Sciences and Climate Change (ICAyCC), National Autonomous University of Mexico (UNAM). Before joining UNAM, I held a joint postdoctoral postion at the Massachusetts Institute of Technology (MIT) and the Molina Center for Energy and the Environment (MCE2). My research focuses on atmospheric chemistry, air quality modeling, and data assimilation to develop operational early-warning systems for extreme pollution events and public health decision-making.
 
 I integrate atmospheric observations, chemical transport models, high-performance computing, and data assimilation methods to investigate the formation and transport of secondary air pollutants in Mexico. By improving the representation of atmospheric processes—particularly those occurring in the middle troposphere, my work strengthens air quality forecasting and provides scientific evidence to support mitigation strategies and air quality policy.
 
