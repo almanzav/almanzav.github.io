@@ -1,79 +1,193 @@
 ---
 layout: home
-title: Victor Almanza Veloz
+title: Home
 ---
 
-# Victor Almanza Veloz
+<div class="home-hero">
 
-**Researcher · Atmospheric Sciences · Air Quality Modeling · Data Assimilation**
+  <div class="home-hero-text">
 
-Institute for Atmospheric Sciences and Climate Change (ICAyCC)  
-National Autonomous University of Mexico (UNAM)
+    <p class="eyebrow">ATMOSPHERIC SCIENTIST</p>
 
----
+    <h1>Victor Almanza Veloz</h1>
 
-## Research
+    <p class="home-role">
+      Atmospheric Sciences · Air Quality Modeling · Data Assimilation
+    </p>
 
-My research focuses on **atmospheric composition, air quality modeling, data assimilation, and computational methods** for understanding and predicting air pollution in urban and regional environments.
+    <p class="home-affiliation">
+      Institute for Atmospheric Sciences and Climate Change (ICAyCC)<br>
+      National Autonomous University of Mexico (UNAM)
+    </p>
 
-A central focus of my work is the **Megalopolis of Central Mexico**, where I combine numerical models, atmospheric observations, satellite measurements, data assimilation, and statistical and machine-learning methods.
+    <div class="hero-buttons">
+      <a class="button button-primary" href="{{ '/research/' | relative_url }}">
+        Explore Research
+      </a>
 
-[Explore my research →](/research/)
+      <a class="button button-secondary" href="{{ '/files/Almanza-Victor_CV_upd-2026.pdf' | relative_url }}">
+        Download CV
+      </a>
+    </div>
 
----
+  </div>
 
-## Research Projects
+  <div class="home-hero-photo">
 
-My current and recent research projects address air quality forecasting, chemical data assimilation, atmospheric observations, emissions, and the interaction between meteorology and air pollution.
+    <img
+      src="{{ '/assets/images/Almanza-Victor_foto-4-CCA.jpg' | relative_url }}"
+      alt="Victor Almanza Veloz"
+    >
 
-[View research projects →](/research/projects/)
+  </div>
 
----
+</div>
 
-## Selected Publications
+<section class="home-section">
 
-My publications cover air quality modeling, atmospheric chemistry, pollutant transport, satellite observations, emissions, and the impacts of atmospheric processes on air quality.
+  <p class="section-label">RESEARCH</p>
 
-- **Maldonado-Paccheco, G., Almanza, V., Ruiz-Suárez, L. G., & García-Reynoso, A.**  
-  *Assimilating chemical observations in the Mexico City Metropolitan Area using WRFDA-Chem.*  
-  **Geofísica Internacional** (2025).
+  <h2>Atmospheric composition and air quality in urban and regional environments</h2>
 
-- **Taquet, N., Stremme, W., González del Castillo, M. E., Almanza, V., et al.**  
-  *CO₂ and CO temporal variability over Mexico City from ground-based total column and surface measurements.*  
-  **Atmospheric Chemistry and Physics**, 24, 11823–11848 (2024).
+  <p>
+    My research focuses on <strong>atmospheric composition, air quality modeling,
+    data assimilation, and computational methods</strong> for understanding and
+    predicting air pollution in urban and regional environments.
+  </p>
 
-- **Almanza, V., Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.**  
-  *Influence of biomass burning on ozone levels in the Megalopolis of Central Mexico during the COVID-19 lockdown.*  
-  **Journal of Environmental Sciences**, 143, 99–115 (2024).
+  <p>
+    A central focus of my work is the <strong>Megalopolis of Central Mexico</strong>,
+    where I combine numerical models, atmospheric observations, satellite
+    measurements, data assimilation, and statistical and machine-learning methods.
+  </p>
 
-- **Zavala-Araiza, D., Omara, M., Gautam, R., et al., including Almanza-Veloz, V.**  
-  *A tale of two regions: Methane emissions from oil and gas production in offshore/onshore Mexico.*  
-  **Environmental Research Letters**, 16, 024019 (2021).
+  <a class="text-link" href="{{ '/research/' | relative_url }}">
+    Explore my research →
+  </a>
 
-- **Almanza, V. H., Molina, L. T., Li, G., Fast, J., & Sosa, G.**  
-  *Impact of external industrial sources on the regional and local SO₂ and O₃ levels of the Mexico megacity.*  
-  **Atmospheric Chemistry and Physics**, 14, 8483–8499 (2014).
+</section>
 
-[View all publications →](/publications/)
+<section class="home-section home-projects">
 
----
+  <p class="section-label">RESEARCH PROJECTS</p>
 
-## About Me
+  <h2>Current and recent research projects</h2>
 
-I am a researcher at the **Institute for Atmospheric Sciences and Climate Change (ICAyCC), UNAM**, where I work on atmospheric chemistry, air quality modeling, numerical methods, and computational approaches to atmospheric science.
+  <p>
+    My research projects address air quality forecasting, chemical data
+    assimilation, atmospheric observations, emissions, and the interaction
+    between meteorology and air pollution.
+  </p>
 
-I also teach and supervise students in atmospheric sciences, Earth sciences, applied mathematics, and computational science.
+  <a class="text-link" href="{{ '/projects/' | relative_url }}">
+    View research projects →
+  </a>
 
-[More about me →](/about/)
+</section>
 
----
+<section class="home-section">
 
-## Contact
+  <p class="section-label">SELECTED PUBLICATIONS</p>
 
-**Victor Almanza Veloz**  
-Institute for Atmospheric Sciences and Climate Change  
-National Autonomous University of Mexico (UNAM)
+  <h2>Recent research</h2>
 
-**Email:** victor.almanza@atmosfera.unam.mx
+  <div class="home-publications">
 
-[Contact →](/contact/)
+    <article class="home-publication">
+      <p class="home-publication-title">
+        <strong>Maldonado-Paccheco, G., Almanza, V., Ruiz-Suárez, L. G., & García-Reynoso, A.</strong>
+      </p>
+      <p>
+        <em>Assimilating chemical observations in the Mexico City Metropolitan Area using WRFDA-Chem.</em>
+        Geofísica Internacional (2025).
+      </p>
+    </article>
+
+    <article class="home-publication">
+      <p class="home-publication-title">
+        <strong>Taquet, N., Stremme, W., González del Castillo, M. E., Almanza, V., et al.</strong>
+      </p>
+      <p>
+        <em>CO₂ and CO temporal variability over Mexico City from ground-based total column and surface measurements.</em>
+        Atmospheric Chemistry and Physics (2024).
+      </p>
+    </article>
+
+    <article class="home-publication">
+      <p class="home-publication-title">
+        <strong>Almanza, V., Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.</strong>
+      </p>
+      <p>
+        <em>Influence of biomass burning on ozone levels in the Megalopolis of Central Mexico during the COVID-19 lockdown.</em>
+        Journal of Environmental Sciences (2024).
+      </p>
+    </article>
+
+  </div>
+
+  <a class="text-link" href="{{ '/publications/' | relative_url }}">
+    View all publications →
+  </a>
+
+</section>
+
+<section class="home-section home-about">
+
+  <p class="section-label">ABOUT</p>
+
+  <h2>Researcher at ICAyCC, UNAM</h2>
+
+  <p>
+    I am a researcher at the <strong>Institute for Atmospheric Sciences and
+    Climate Change (ICAyCC), UNAM</strong>, where I work on atmospheric
+    chemistry, air quality modeling, numerical methods, and computational
+    approaches to atmospheric science.
+  </p>
+
+  <p>
+    I also teach and supervise students in atmospheric sciences, Earth
+    sciences, applied mathematics, and computational science.
+  </p>
+
+  <a class="text-link" href="{{ '/about/' | relative_url }}">
+    More about me →
+  </a>
+
+</section>
+
+<section class="home-contact">
+
+  <div>
+    <p class="section-label">CONTACT</p>
+
+    <h2>Get in touch</h2>
+
+    <p>
+      Institute for Atmospheric Sciences and Climate Change<br>
+      National Autonomous University of Mexico (UNAM)
+    </p>
+
+    <a class="email-link" href="mailto:victor.almanza@atmosfera.unam.mx">
+      victor.almanza@atmosfera.unam.mx
+    </a>
+  </div>
+
+  <div class="home-cv">
+
+    <p class="section-label">CURRICULUM VITAE</p>
+
+    <h2>Academic CV</h2>
+
+    <p>
+      For a complete overview of my academic background, research experience,
+      publications, and professional activities.
+    </p>
+
+    <a class="button button-primary"
+       href="{{ '/files/Almanza-Victor_CV_upd-2026.pdf' | relative_url }}">
+      Download CV
+    </a>
+
+  </div>
+
+</section>
