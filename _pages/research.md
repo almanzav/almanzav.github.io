@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research
 
-My research focuses on atmospheric composition, air quality modeling, data assimilation, and computational methods for understanding and predicting air pollution in urban and regional environments.
+My research focuses on atmospheric composition, air quality modeling and data assimilation methods for understanding and forecasting air pollution in urban and regional environments.
 
 A central focus of my work is the **Megalopolis of Central Mexico**, where I combine numerical models, surface observations, satellite measurements, data assimilation, and statistical and machine-learning methods to investigate atmospheric processes and improve air quality forecasting.
 
@@ -16,7 +16,7 @@ A central focus of my work is the **Megalopolis of Central Mexico**, where I com
 
 ### Air Quality Modeling and Forecasting
 
-The goal is to understan and forecast air quality in urban and regional environments. My work includes meteorological-chemical modeling, operational forecasting, model evaluation, and sensitivity studies focused on ozone, particulate matter, and their precursors.
+The goal is to understand and forecast air quality in urban and regional environments. My work includes meteorological-chemical modeling, operational forecasting, model evaluation, and sensitivity studies focused on ozone, particulate matter, and their precursors.
 
 **Methods and applications:**
 **Urban and regional modeling · Operational Forecasting · Model evaluation**
@@ -43,7 +43,7 @@ Investigation of processes controlling ozone and other pollutants in urban and r
 
 ### Machine Learning and Statistical Methods
 
-Application of statistical and machine-learning methods to atmospheric observations and numerical model outputs. These approaches are being explored to improve air quality prediction, identify systematic model errors, and characterize atmospheric conditions associated with pollution episodes.
+Application of statistical and machine-learning methods to atmospheric observations and numerical model outputs. These approaches are being explored to improve air quality forecasting, identify systematic model errors, and characterize atmospheric conditions associated with pollution episodes.
 
 **Methods and applications:**
 **Model bias correction · RF and SVM**
@@ -54,13 +54,11 @@ Application of statistical and machine-learning methods to atmospheric observati
 Research on the interactions between atmospheric pollution and climate, with emphasis on short-lived climate forcers and their effects on urban and regional atmospheric composition.
 
 **Research topics:**
-**short-lived climate forcers**
+**Short-lived climate forcers**
 
 ---
 
-## Current Research
-
-My current research brings together atmospheric observations, numerical modeling, data assimilation, and computational methods to improve the representation and prediction of atmospheric composition.
+## Research Projects and Publications
 
 ---
 
