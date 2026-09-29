@@ -775,3 +775,160 @@ main.page-content hr {
   display: none !important;
 }
 
+/* =========================================
+   HOME
+   ========================================= */
+
+.home-hero {
+  min-height: 680px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+  align-items: center;
+  gap: 90px;
+  padding: 90px 0 110px;
+}
+
+.home-hero-text {
+  max-width: 720px;
+}
+
+.home-hero h1 {
+  margin-bottom: 20px;
+}
+
+.home-role {
+  color: var(--blue);
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.home-affiliation {
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.7;
+  margin-bottom: 32px;
+}
+
+.home-hero-photo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-hero-photo img {
+  display: block;
+  width: min(100%, 360px);
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 24px 55px rgba(16, 42, 67, 0.16);
+}
+
+.home-section {
+  max-width: 900px;
+  padding: 100px 0;
+  border-top: 1px solid var(--border);
+}
+
+.home-section h2 {
+  max-width: 800px;
+  margin: 16px 0 28px;
+}
+
+.home-section > p:not(.section-label) {
+  max-width: 760px;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.home-section .text-link {
+  margin-top: 12px;
+}
+
+.home-projects {
+  max-width: 820px;
+}
+
+.home-publications {
+  margin-top: 35px;
+}
+
+.home-publication {
+  padding: 24px 0;
+  border-top: 1px solid var(--border);
+}
+
+.home-publication:last-child {
+  border-bottom: 1px solid var(--border);
+}
+
+.home-publication p {
+  color: var(--muted);
+  margin: 6px 0;
+}
+
+.home-publication-title {
+  color: var(--text) !important;
+}
+
+.home-about {
+  max-width: 900px;
+}
+
+.home-contact {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 90px;
+  padding: 100px 0;
+  border-top: 1px solid var(--border);
+}
+
+.home-contact h2 {
+  margin: 16px 0 22px;
+}
+
+.home-contact p:not(.section-label) {
+  color: var(--muted);
+}
+
+.home-cv {
+  padding-left: 20px;
+}
+
+.home-cv .button {
+  margin-top: 15px;
+}
+
+@media (max-width: 800px) {
+
+  .home-hero {
+    min-height: auto;
+    grid-template-columns: 1fr;
+    gap: 50px;
+    padding: 70px 0 80px;
+  }
+
+  .home-hero-photo {
+    order: -1;
+    justify-content: flex-start;
+  }
+
+  .home-hero-photo img {
+    width: min(100%, 280px);
+  }
+
+  .home-section {
+    padding: 75px 0;
+  }
+
+  .home-contact {
+    grid-template-columns: 1fr;
+    gap: 60px;
+    padding: 75px 0;
+  }
+
+  .home-cv {
+    padding-left: 0;
+  }
+
+}
