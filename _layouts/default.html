@@ -60,7 +60,7 @@
 
 </header>
 
-<main class="page-content">
+<main class="page-content{% if page.title != 'Home' %} inner-page{% endif %}">
 
   <div class="container">
 
@@ -111,6 +111,7 @@
 
 </footer>
 
+  
 </body>
 
 </html>
