@@ -91,9 +91,9 @@ Modeling of emission-sensitivity scenarios to investigate changes in ozone and f
 **2019–2020 · UCMEXUS–CONACYT**
 
 **Role:** Co-Principal Investigator  
-**Principal Investigator:** Victor Hugo Almanza Veloz
+**Principal Investigator:** Lynn Russell
 
-Organization and implementation of a symposium and training workshop focused on air quality modeling and capacity building in Mexico.
+Organization of a symposium and training workshop focused on air quality modeling and capacity building in Mexico.
 
 ---
 
@@ -241,16 +241,3 @@ Contribution to the numerical modeling component addressing atmospheric and envi
 
 ---
 
-## Research Themes
-
-The projects above are connected by several common research themes:
-
-- **Air quality modeling and forecasting**
-- **Data assimilation**
-- **Atmospheric composition and chemistry**
-- **Satellite and remote-sensing observations**
-- **Emission characterization and evaluation**
-- **Pollutant transport and meteorology**
-- **Machine learning and statistical methods**
-- **High-performance scientific computing**
-- **Air quality and climate interactions**
