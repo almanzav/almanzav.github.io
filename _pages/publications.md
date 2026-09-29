@@ -50,6 +50,10 @@ My research publications address atmospheric composition, air quality modeling, 
 
 ---
 
+## Complete Publication List
+
+The complete list of journal articles and other publications is organized below by type and year.
+
 ## Journal Articles
 
 ### 2026
