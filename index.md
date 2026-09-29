@@ -83,8 +83,6 @@ title: Home
 
   <p class="section-label">SELECTED PUBLICATIONS</p>
 
-  <h2>Recent research</h2>
-
   <div class="home-publications">
 
     <article class="home-publication">
@@ -117,7 +115,7 @@ title: Home
       </p>
     </article>
 
-  </div>
+   </div>
 
   <a class="text-link" href="{{ '/publications/' | relative_url }}">
     View all publications →
