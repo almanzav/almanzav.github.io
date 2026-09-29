@@ -16,25 +16,23 @@ A central focus of my work is the **Megalopolis of Central Mexico**, where I com
 
 ### Air Quality Modeling and Forecasting
 
-Development and evaluation of numerical approaches for understanding and forecasting air quality in urban and regional environments. My work includes meteorological-chemical modeling, operational forecasting, model evaluation, and sensitivity studies focused on ozone, particulate matter, and their precursors.
+The goal is to understan and forecast air quality in urban and regional environments. My work includes meteorological-chemical modeling, operational forecasting, model evaluation, and sensitivity studies focused on ozone, particulate matter, and their precursors.
 
 **Methods and applications:**
 
 - Urban and regional air quality modeling
 - Operational air quality forecasting
-- WRF-Chem and WRF-CMAQ
 - Model evaluation and emission sensitivity studies
 
 ---
 
-### Atmospheric Data Assimilation
+### Data Assimilation
 
 Integration of atmospheric observations into numerical models to improve estimates of atmospheric composition and air quality forecasts. My work includes both variational and ensemble-based approaches, with applications to the Megalopolis of Central Mexico.
 
 **Methods and applications:**
 
-- Variational and ensemble data assimilation
-- WRFDA-Chem and DART
+- Variational (WRFDA-Chem) and ensemble data assimilation (DART)
 - Meteorological and chemical observations
 - Satellite data assimilation
 
@@ -49,13 +47,12 @@ Use of satellite and ground-based observations to characterize the spatial and t
 - TROPOMI, OMI, and TEMPO observations
 - Ground-based FTIR measurements
 - CO, NO₂, and other trace gases
-- Satellite-based model and emission inventory evaluation
 
 ---
 
 ### Ozone, Emissions, and Regional Transport
 
-Investigation of the processes controlling ozone and other pollutants in urban and regional environments, with particular emphasis on the interaction between emissions, atmospheric chemistry, meteorology, and regional transport in the Megalopolis of Central Mexico.
+Investigation of processes controlling ozone and other pollutants in urban and regional environments, with particular emphasis on the interaction between emissions, atmospheric chemistry, meteorology, and regional transport in the Megalopolis of Central Mexico.
 
 **Research topics:**
 
@@ -86,9 +83,6 @@ Research on the interactions between atmospheric pollution and climate, with emp
 **Research topics:**
 
 - Black carbon and short-lived climate forcers
-- Sulfur dioxide and transportation emissions
-- Industrial and regional emissions
-- Air quality and climate interactions
 
 ---
 
@@ -98,7 +92,7 @@ My current research brings together atmospheric observations, numerical modeling
 
 ### Data Assimilation for Air Quality Forecasting
 
-Development of methods to incorporate meteorological and chemical observations into numerical air quality forecasting systems, with the objective of improving the initial atmospheric state and the prediction of pollution episodes.
+Development of tools to incorporate meteorological and chemical observations into numerical air quality forecasting systems, with the objective of improving the initial atmospheric state and the prediction of pollution episodes.
 
 ### Satellite-Based Atmospheric Data Assimilation
 
