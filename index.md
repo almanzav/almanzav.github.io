@@ -59,7 +59,7 @@ title: Home
   <div>
     <p class="section-label">CONTACT</p>
 
-    <h2>Collaboration</h2>
+    <h2>Want to participate?</h2>
 
     <p>
       I welcome students interested in air quality modeling, inverse methods and data assimilation. Projects involve numerical modeling, meteorological and chemical composition observations, satellite data, time series analysis and chemical reanalyses.<br>
