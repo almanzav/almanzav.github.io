@@ -6,36 +6,25 @@ permalink: /about/
 
 # About Me
 
-I am a researcher at the Institute of Atmospheric Sciences and Climate Change (ICAyCC), National Autonomous University of Mexico (UNAM), where I work on atmospheric chemistry, air quality modeling, data assimilation, and computational methods for understanding and predicting air pollution.
+I am a researcher at the Institute of Atmospheric Sciences and Climate Change (ICAyCC), National Autonomous University of Mexico (UNAM). My research focuses on the development and evaluation of numerical models for urban and regional air quality, integrating atmospheric observations and satellite measurements using data assimilation methods and machine-learning approaches for improving air quality forecasts, understanding model uncertainty, and investigating the interactions between meteorology, emissions, atmospheric chemistry, and pollutant transport. I work on developing operational early-warning systems that supports authorities in responding to extreme pollution events and public health decision making. 
 
-My research focuses on the development and evaluation of numerical models for urban and regional air quality, integrating atmospheric observations, satellite measurements, data assimilation, and computational methods. A particular focus of my work is the Mexico City Metropolitan Area and the Megalopolis of Central Mexico.
-
-I am also interested in statistical and machine-learning approaches for improving air quality forecasts, understanding model uncertainty, and investigating the interactions between meteorology, emissions, atmospheric chemistry, and pollutant transport.
+I am Member of the Scientific Committee of the **North America Working Group for Integrated Atmospheric Chemistry Research**, which promotes collaboration and coordination of atmospheric chemistry research across North America as part of the *International Global Atmospheric Chemistry (IGAC) Project*.
+<a href="https://igacproject.org/index.php/activities/north-america-working-group-integrated-atmospheric-chemistry-research" target="_blank" rel="noopener noreferrer">View committee →</a>
 
 ---
 
 ## Research Interests
 
 - Air quality modeling and forecasting
-- Chemical data assimilation
+- Chemical data assimilation and machine-learning methods
 - Atmospheric composition and remote sensing
 - Atmospheric chemistry and meteorology
-- Computational and machine-learning methods
 
 ---
 
-## Scientific Committee Membership
-
-**North America Working Group for Integrated Atmospheric Chemistry Research**  
-*International Global Atmospheric Chemistry (IGAC) Project*
-
-Member of the scientific committee of the North America Working Group for Integrated Atmospheric Chemistry Research, which promotes collaboration and coordination of atmospheric chemistry research across North America.
-
-[View committee →](https://igacproject.org/index.php/activities/north-america-working-group-integrated-atmospheric-chemistry-research)
-
 ## Teaching & Mentoring
 
-I teach and supervise students at undergraduate and graduate levels at UNAM in atmospheric sciences, Earth sciences, applied mathematics, and computational science. My teaching and mentoring activities include air quality modeling, data assimilation, scientific computing, and computational methods for geosciences. I have also developed and taught specialized training activities in numerical weather and air quality modeling, including WRF and WRF-Chem for both industry and academia.
+I teach and supervise students at both undergraduate and graduate levels at UNAM in atmospheric sciences, Earth sciences, applied mathematics, and computational science. My teaching and mentoring activities include air quality modeling, data assimilation, scientific computing, and computational methods for geosciences. I have also developed and taught specialized training activities in numerical weather and air quality modeling, including WRF and WRF-Chem for both industry and academia.
 
 ---
 
@@ -54,13 +43,13 @@ Technical Specialist · 2019–2020
 
 ## Academic Service
 
-I contribute to the academic community through scientific peer review, research proposal evaluation, scientific meetings, workshops, and capacity-building activities related to atmospheric modeling and air quality.
+I contribute to the academic community through scientific peer review, research proposal evaluation, scientific committees, workshops, and capacity-building activities related to atmospheric modeling and air quality.
 
 ---
 
 ## Awards
 
-- Member of the Mexican National System of Researchers, Level 1 · 2026–2031
+- Member of the Mexican National System of Researchers (SNII), Level 1 · 2026–2031
 - MIT Molina Postdoctoral Fellowship · 2013–2018
 - Highest undergraduate GPA in the graduating class 2002 (Bachelor)
 
