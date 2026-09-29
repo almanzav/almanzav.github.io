@@ -18,6 +18,10 @@ title: Home
     <p class="home-affiliation">
       Institute for Atmospheric Sciences and Climate Change (ICAyCC)<br>
       National Autonomous University of Mexico (UNAM)
+      I am a scientist at the <strong>Institute for Atmospheric Sciences and
+    Climate Change (ICAyCC), UNAM</strong>. My research focuses on <strong>atmospheric chemistry, air quality modeling,
+    data assimilation</strong> with the aim of developing operational early-warning systems that supports authorities in
+    responding to extreme pollution events and public health decision making.
     </p>
 
     <div class="hero-buttons">
