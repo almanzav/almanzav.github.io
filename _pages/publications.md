@@ -161,6 +161,74 @@ Accepted.
 
 ---
 
+## Technical Reports
+
+### 2022
+
+DGTIC – UNAM: **Almanza, V.**  
+*Impacto del periodo de confinamiento por COVID-19 en precursores de ozono, partículas finas y aerosoles orgánicos secundarios.*  
+Proyecto LANCAD-UNAM-DGTIC-395. Prepared for DGTIC–UNAM (2022).
+
+---
+
+### 2020
+
+CICESE – UNAM: **Almanza, V.**  
+*Versión Funcional del Software Para Realizar Pronósticos Meteorológicos de Calidad del Aire: Evaluación Química.*  
+Project CIGOM. Prepared for CICESE (2020).
+
+CICESE – UNAM: **Almanza, V.**  
+*Versión Funcional del Software Para Realizar Pronósticos Meteorológicos de Calidad del Aire: Evaluación Meteorológica.*  
+Proyecto CIGOM. Preparado para el Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE) (2020).
+
+---
+
+### 2019
+
+CARB: Quintana, J., Nara, A., Russell, L., Zavala, M., **Almanza, V.**, Molina, L., Quintana, J.  
+*Improving the CalEnviroScreen Score at the US–Mexico Border.*  
+Prepared for California Air Resources Board (2019).
+
+---
+
+### 2018
+
+Commission for Environmental Cooperation (CEC): Molina, L., Zavala, M., Lei, W., **Almanza, V.**  
+*Reducing Emissions from Goods Movement via Maritime Transportation in North America: Evaluation of the Impacts of Ship Emissions over Mexico.*  
+Montreal, Canada (2018).
+
+---
+
+### 2017
+
+MCE2 – Molina Center for Energy and the Environment: Molina, L., Zavala, M., Lei, W., **Almanza, V.**  
+*Characterization of Oil and Gas Methane Emission Sources in Mexico.*  
+Prepared for Mexican Ministry of Environment and Environmental Defense Fund (2017).
+
+LTMCE2 – LTM Center for Energy and the Environment: Molina, L., Zavala, M., Lei, W., **Almanza, V.**  
+*Evaluación de los impactos en la concentración de ozono por la aplicación de estrategias integradas de control de emisiones en la Megalópolis.*  
+Final Report INECC/LPN-009/2017. Mexico (2017).
+
+---
+
+### 2016
+
+MCE2–INECC (Molina Center for Energy and the Environment and Instituto Nacional de Ecología y Cambio Climático): Molina, L., Zavala, M., Lei, W., **Almanza, V.**  
+*Integrated Responses to Short-Lived Climate Forcers Promoting Clean Energy and Energy Efficiency.*  
+Prepared for United Nations Environment Programme (UNEP). 2016; updated 2018.
+
+MCE2 – Molina Center for Energy and the Environment: Molina, L., Zavala, M., Lei, W., **Almanza, V.**  
+*Beneficios en el clima y la salud por la mitigación de Contaminantes Climáticos de Vida Corta (CCVC): El caso del carbono negro del sector transporte en México.*  
+Preparado para LARCI (2016).
+
+---
+
+### 2015
+
+Instituto Nacional de Ecología y Cambio Climático (INECC): Molina, L., Zavala, M., Lei, W., de Foy, B., **Almanza, V.**  
+*Estudios de Calidad del Aire y su Impacto en la Región Centro de México (ECAIM).*  
+Informe Final, Tomo II. Centro de Ciencias de la Atmósfera, UNAM (2015).
+
 ## Under Review
 
 **Arellano-Hernández, J., Almanza, V., Jazcilevich, A., Rojas-Rueda, D., Ruiz-Suárez, L. G., García, A., & Hernández-Paniagua, I. Y.**  
