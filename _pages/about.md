@@ -22,7 +22,7 @@ I am Member of the Scientific Committee of the **North America Working Group for
 - Air quality modeling and forecasting
 - Chemical data assimilation and machine-learning methods
 - Atmospheric composition and remote sensing
-- Atmospheric chemistry and meteorology
+- Atmospheric chemistry of SOA and PAN
 
 ---
 
