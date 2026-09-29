@@ -16,12 +16,10 @@ title: Home
     </p>
 
     <p class="home-affiliation">
-      Institute for Atmospheric Sciences and Climate Change (ICAyCC)<br>
-      National Autonomous University of Mexico (UNAM)
-      I am a scientist at the <strong>Institute for Atmospheric Sciences and
-    Climate Change (ICAyCC), UNAM</strong>. My research focuses on <strong>atmospheric chemistry, air quality modeling,
-    data assimilation</strong> with the aim of developing operational early-warning systems that supports authorities in
-    responding to extreme pollution events and public health decision making.
+    I am a scientist at the <strong>Institute for Atmospheric Sciences and Climate Change (ICAyCC), UNAM</strong>. 
+    My research focuses on atmospheric chemistry, air quality modeling, and data assimilation to develop operational early-warning systems aimed at responding to extreme pollution events and supporting public health     decision-making<br>
+
+   I particularly investigate the formation and transport of secondary air pollutants through the integration of atmospheric composition observations, chemical transport modeling, high-performance computing, and advanced data assimilation techniques. My work aims to improve the representation of atmospheric processes, strengthen air quality forecasting and response capabilities, and provide scientifically robust information to support the design and evaluation of air pollution mitigation strategies in Mexico, with particular emphasis on processes occurring in the middle troposphere.
     </p>
 
     <div class="hero-buttons">
@@ -32,6 +30,19 @@ title: Home
       <a class="button button-secondary" href="{{ '/files/Almanza-Victor_CV_upd-2026.pdf' | relative_url }}">
         Download CV
       </a>
+
+ <a class="text-link" href="{{ '/about/' | relative_url }}">
+    More about me →
+  </a>
+
+  <a class="text-link" href="{{ '/research/' | relative_url }}">
+    Explore my research →
+  </a>
+
+  <a class="text-link" href="{{ '/publications/' | relative_url }}">
+    View my publications →
+  </a>
+
     </div>
 
   </div>
@@ -47,32 +58,6 @@ title: Home
 
 </div>
 
-<section class="home-section home-about">
-
-  <p class="section-label">ABOUT</p>
-
-  <h2>Researcher at ICAyCC, UNAM</h2>
-
-  <p>
-    I am a scientist at the <strong>Institute for Atmospheric Sciences and
-    Climate Change (ICAyCC), UNAM</strong>. My research focuses on <strong>atmospheric chemistry, air quality modeling,
-    data assimilation</strong> with the aim of developing operational early-warning systems that supports authorities in
-    responding to extreme pollution events and public health decision making.
-  </p>
-
-  <a class="text-link" href="{{ '/about/' | relative_url }}">
-    More about me →
-  </a>
-
-  <a class="text-link" href="{{ '/research/' | relative_url }}">
-    Explore my research →
-  </a>
-
-  <a class="text-link" href="{{ '/publications/' | relative_url }}">
-    View my publications →
-  </a>
-
-</section>
 
 
 <section class="home-contact">
@@ -80,11 +65,13 @@ title: Home
   <div>
     <p class="section-label">CONTACT</p>
 
-    <h2>Get in touch</h2>
+    <h2>Collaboration</h2>
 
     <p>
-      Institute for Atmospheric Sciences and Climate Change<br>
-      National Autonomous University of Mexico (UNAM)
+      I welcome students interested in air quality modeling, inverse methods and data assimilation. Projects involve numerical modeling, meteorological and chemical composition observations, satellite data, time series analysis and chemical reanalyses.
+      
+Students can join through UNAM graduate or bachelor programs in Earth Sciences. MSc or PhD program in Physical Oceanography. Students admitted to the program may be eligible to apply for SECIHTI graduate funding.
+Get in touch and discuss possible research questions to address national problems.
     </p>
 
     <a class="email-link" href="mailto:victor.almanza@atmosfera.unam.mx">
@@ -92,22 +79,5 @@ title: Home
     </a>
   </div>
 
-  <div class="home-cv">
-
-    <p class="section-label">CURRICULUM VITAE</p>
-
-    <h2>Academic CV</h2>
-
-    <p>
-      For a complete overview of my academic background, research experience,
-      publications, and professional activities.
-    </p>
-
-    <a class="button button-primary"
-       href="{{ '/files/Almanza-Victor_CV_upd-2026.pdf' | relative_url }}">
-      Download CV
-    </a>
-
-  </div>
 
 </section>
