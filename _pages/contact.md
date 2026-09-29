@@ -18,8 +18,8 @@ National Autonomous University of Mexico (UNAM)
 
 ## Academic Profiles
 
-- [Google Scholar](https://scholar.google.com/citations?user=f4RGTiQAAAAJ&hl=es&oi=ao)
-- [LinkedIn](https://mx.linkedin.com/in/victor-almanza-76780a166)
+- <a href="https://scholar.google.com/citations?user=f4RGTiQAAAAJ&hl=es&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+- <a href="https://mx.linkedin.com/in/victor-almanza-76780a166" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 
