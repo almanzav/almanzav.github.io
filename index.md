@@ -83,13 +83,15 @@ title: Home
 
   <p class="section-label">SELECTED PUBLICATIONS</p>
 
+  <h2>Selected Publications</h2>
+
   <div class="home-publications">
 
     <article class="home-publication">
       <p class="home-publication-title">
-       Maldonado-Paccheco, G., <strong>Almanza, V.</strong>, Ruiz-Suárez, L. G., & García-Reynoso, A.
+        Maldonado-Paccheco, G., <strong>Almanza, V.</strong>, Ruiz-Suárez, L. G., & García-Reynoso, A.
       </p>
-      
+
       <p>
         <em>Assimilating chemical observations in the Mexico City Metropolitan Area using WRFDA-Chem.</em>
         Geofísica Internacional (2025).
@@ -100,6 +102,7 @@ title: Home
       <p class="home-publication-title">
         Taquet, N., Stremme, W., González del Castillo, M. E., <strong>Almanza, V.</strong>, et al.
       </p>
+
       <p>
         <em>CO₂ and CO temporal variability over Mexico City from ground-based total column and surface measurements.</em>
         Atmospheric Chemistry and Physics (2024).
@@ -108,20 +111,23 @@ title: Home
 
     <article class="home-publication">
       <p class="home-publication-title">
-       <strong>Almanza, V.</strong>, Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.
+        <strong>Almanza, V.</strong>, Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.
+      </p>
+
       <p>
         <em>Influence of biomass burning on ozone levels in the Megalopolis of Central Mexico during the COVID-19 lockdown.</em>
         Journal of Environmental Sciences (2024).
       </p>
     </article>
 
-   </div>
+  </div>
 
   <a class="text-link" href="{{ '/publications/' | relative_url }}">
     View all publications →
   </a>
 
 </section>
+
 
 <section class="home-section home-about">
 
