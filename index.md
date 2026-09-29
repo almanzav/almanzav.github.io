@@ -16,8 +16,7 @@ title: Home
     </p>
 
     <p class="home-affiliation">
-    I am a scientist at the <strong>Institute for Atmospheric Sciences and Climate Change (ICAyCC), UNAM</strong>. 
-    My research focuses on atmospheric chemistry, air quality modeling, and data assimilation to develop operational early-warning systems aimed at responding to extreme pollution events and supporting public health     decision-making<br>
+    I am a scientist at the <strong>Institute for Atmospheric Sciences and Climate Change (ICAyCC), UNAM</strong>. Before joining UNAM, I held a joint postdoctoral postion at the Massachusetts Institute of Technology (MIT) and the Molina Center for Energy and the Environment (MCE2).  My research focuses on atmospheric chemistry, air quality modeling, and data assimilation to develop operational early-warning systems aimed at responding to extreme pollution events and supporting public health decision-making<br>
     <br>
    I particularly investigate the formation and transport of secondary air pollutants through the integration of atmospheric composition observations, chemical transport modeling, high-performance computing, and advanced data assimilation techniques.<br>
    <br>
