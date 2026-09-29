@@ -12,7 +12,7 @@ I integrate atmospheric observations, chemical transport models, high-performanc
 
 I foster multidisciplinary collaborations to advance numerical modeling and data assimilation capabilities, with a particular focus on the regional impacts of wildfires and biomass burning and their implications for air quality management.
 
-I am Member of the Scientific Committee of the **North America Working Group for Integrated Atmospheric Chemistry Research**, which promotes collaboration and coordination of atmospheric chemistry research across North America as part of the *International Global Atmospheric Chemistry (IGAC) Project*.
+I participate in the Scientific Committee of the **North America Working Group for Integrated Atmospheric Chemistry Research**, which promotes collaboration and coordination of atmospheric chemistry research across North America as part of the *International Global Atmospheric Chemistry (IGAC) Project*.
 <a href="https://igacproject.org/index.php/activities/north-america-working-group-integrated-atmospheric-chemistry-research" target="_blank" rel="noopener noreferrer">View committee →</a>
 
 ---
