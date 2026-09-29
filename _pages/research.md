@@ -19,10 +19,8 @@ A central focus of my work is the **Megalopolis of Central Mexico**, where I com
 The goal is to understan and forecast air quality in urban and regional environments. My work includes meteorological-chemical modeling, operational forecasting, model evaluation, and sensitivity studies focused on ozone, particulate matter, and their precursors.
 
 **Methods and applications:**
+**Urban and regional modeling · Operational Forecasting · Model evaluation**
 
-- Urban and regional air quality modeling
-- Operational air quality forecasting
-- Model evaluation and emission sensitivity studies
 
 ---
 
