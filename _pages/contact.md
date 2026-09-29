@@ -1,67 +1,32 @@
 ---
-layout: default
+layout: page
 title: Contact
 permalink: /contact/
 ---
 
-<div class="page-header">
+# Contact
 
-  <p class="section-label">CONTACT</p>
+## Victor Hugo Almanza Veloz
 
-  <h1>Contact</h1>
+Researcher in Atmospheric Sciences  
+Institute of Atmospheric Sciences and Climate Change (ICAyCC)  
+National Autonomous University of Mexico (UNAM)
 
-  <p>
-    Please feel free to get in touch regarding research,
-    collaborations, or other professional matters.
-  </p>
+**Email:** [victor.almanza@atmosfera.unam.mx](mailto:victor.almanza@atmosfera.unam.mx)
 
-</div>
+---
 
+## Academic Profiles
 
-<section class="contact-section">
+- [Google Scholar](https://scholar.google.com/citations?user=f4RGTiQAAAAJ&hl=es&oi=ao)
+- [LinkedIn](https://mx.linkedin.com/in/victor-almanza-76780a166)
 
-  <div class="contact-main">
+---
 
-    <h2>Juan Perez</h2>
+## Research Location
 
-    <p>
-      Researcher<br>
-      Instituto Fleming<br>
-      Ciudad Ciencia, Portugal
-    </p>
+Institute of Atmospheric Sciences and Climate Change (ICAyCC)  
+National Autonomous University of Mexico (UNAM)  
+Mexico City, Mexico
 
-    <p>
-      <a class="email-link"
-         href="mailto:juan.perez@example.edu">
-        juan.perez@example.edu
-      </a>
-    </p>
-
-  </div>
-
-
-  <div class="profile-links">
-
-    <a href="#">
-      <span>Google Scholar</span>
-      →
-    </a>
-
-    <a href="#">
-      <span>ORCID</span>
-      →
-    </a>
-
-    <a href="#">
-      <span>GitHub</span>
-      →
-    </a>
-
-    <a href="#">
-      <span>LinkedIn</span>
-      →
-    </a>
-
-  </div>
-
-</section>
+For research collaborations, academic inquiries, student supervision, and other professional matters, please contact me by email.
