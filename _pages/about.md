@@ -6,7 +6,11 @@ permalink: /about/
 
 # About Me
 
-I am a researcher at the Institute of Atmospheric Sciences and Climate Change (ICAyCC), National Autonomous University of Mexico (UNAM). My research focuses on the development and evaluation of numerical models for urban and regional air quality, integrating atmospheric observations and satellite measurements using data assimilation methods and machine-learning approaches for improving air quality forecasts, understanding model uncertainty, and investigating the interactions between meteorology, emissions, atmospheric chemistry, and pollutant transport. I work on developing operational early-warning systems that supports authorities in responding to extreme pollution events and public health decision making. 
+I am a researcher at the Institute of Atmospheric Sciences and Climate Change (ICAyCC), National Autonomous University of Mexico (UNAM).My research focuses on atmospheric chemistry, air quality modeling, and data assimilation to develop operational early-warning systems for extreme pollution events and public health decision-making.
+
+I integrate atmospheric observations, chemical transport models, high-performance computing, and data assimilation methods to investigate the formation and transport of secondary air pollutants in Mexico. By improving the representation of atmospheric processes—particularly those occurring in the middle troposphere, my work strengthens air quality forecasting and provides scientific evidence to support mitigation strategies and air quality policy.
+
+I foster multidisciplinary collaborations to advance numerical modeling and data assimilation capabilities, with a particular focus on the regional impacts of wildfires and biomass burning and their implications for air quality management.
 
 I am Member of the Scientific Committee of the **North America Working Group for Integrated Atmospheric Chemistry Research**, which promotes collaboration and coordination of atmospheric chemistry research across North America as part of the *International Global Atmospheric Chemistry (IGAC) Project*.
 <a href="https://igacproject.org/index.php/activities/north-america-working-group-integrated-atmospheric-chemistry-research" target="_blank" rel="noopener noreferrer">View committee →</a>
