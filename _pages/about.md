@@ -58,11 +58,11 @@ I contribute to the academic community through scientific peer review, research 
 
 ---
 
-## Recognition
+## Awards
 
-- Member of the Mexican National System of Researchers, Level 1 · 2022–2026
+- Member of the Mexican National System of Researchers, Level 1 · 2026–2031
 - MIT Molina Postdoctoral Fellowship · 2013–2018
-- Recognition for highest undergraduate GPA in the graduating class · 2002
+- Highest undergraduate GPA in the graduating class 2002 (Bachelor)
 
 ---
 
