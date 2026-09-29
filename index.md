@@ -19,7 +19,9 @@ title: Home
     I am a scientist at the <strong>Institute for Atmospheric Sciences and Climate Change (ICAyCC), UNAM</strong>. 
     My research focuses on atmospheric chemistry, air quality modeling, and data assimilation to develop operational early-warning systems aimed at responding to extreme pollution events and supporting public health     decision-making<br>
     <br>
-   I particularly investigate the formation and transport of secondary air pollutants through the integration of atmospheric composition observations, chemical transport modeling, high-performance computing, and advanced data assimilation techniques. My work aims to improve the representation of atmospheric processes, strengthen air quality forecasting and response capabilities, and provide scientifically robust information to support the design and evaluation of air pollution mitigation strategies in Mexico, with particular emphasis on processes occurring in the middle troposphere.
+   I particularly investigate the formation and transport of secondary air pollutants through the integration of atmospheric composition observations, chemical transport modeling, high-performance computing, and advanced data assimilation techniques.<br>
+   <br>
+   My work aims to improve the representation of atmospheric processes, strengthen air quality forecasting and response capabilities, and provide scientifically robust information to support the design and evaluation of air pollution mitigation strategies in Mexico, with particular emphasis on processes occurring in the middle troposphere.
     </p>
 
     <div class="hero-buttons">
