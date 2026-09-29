@@ -63,6 +63,7 @@ nav {
 nav a {
   color: #C8A951;
   font-size: 0.86rem;
+  font-weight: 650;
   text-decoration: none;
   transition: color 0.2s ease;
 }
