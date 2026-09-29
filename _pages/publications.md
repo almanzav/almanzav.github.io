@@ -12,11 +12,17 @@ My research publications address atmospheric composition, air quality modeling, 
 
 ## Selected Publications
 
-### 2025
+### 2026
 
 Maldonado-Paccheco, G., **Almanza, V.**, Ruiz-Suárez, L. G., & García-Reynoso, A.  
 *Assimilating chemical observations in the Mexico City Metropolitan Area using WRFDA-Chem.*  
-**Geofísica Internacional** (2025).
+**Geofísica Internacional**, 65(3), 2359–2376. (2026).
+[DOI](https://doi.org/10.22201/igeof.2954436xe.2026.65.3.1886)
+
+Arellano-Hernández, E.J., **Almanza, V.**, Jazcilevich, A. et al.: 
+*Use of public health benefits to design air pollution emission abatement strategies.* 
+Scientific Reports. 16, 24251 (2026).
+[DOI](https://doi.org/10.1038/s41598-026-55037-3)
 
 ---
 
@@ -63,18 +69,14 @@ García, R., Andraca, G. L., Cerón, J. G., Cerón, R. M., Espinosa Fuentes, M. 
 **Sustainability**, 18(1), 270 (2026).  
 [DOI](https://doi.org/10.3390/su18010270)
 
-García, A., & **Almanza, V.**  
-*Advances in Operational Air Quality Forecasting for Mexico City: Integration of Updated Emissions, Temporal Profiles, and Initial Conditions.*  
-**Atmósfera** (2026).  
-Accepted.
-
 ---
 
 ### 2025
 
-Maldonado-Paccheco, G., **Almanza, V.**, Ruiz-Suárez, L. G., & García-Reynoso, A.  
-*Assimilating chemical observations in the Mexico City Metropolitan Area using WRFDA-Chem.*  
-**Geofísica Internacional** (2025).
+García, A., & **Almanza, V.**  
+*Advances in Operational Air Quality Forecasting for Mexico City: Integration of Updated Emissions, Temporal Profiles, and Initial Conditions.*  
+**Atmósfera**, 40, 153-165, (2025).  
+[DOI](https://doi.org/10.20937/ATM.53515)
 
 ---
 
