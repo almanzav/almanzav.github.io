@@ -12,7 +12,7 @@ title: Home
     <h1>Victor Almanza Veloz</h1>
 
     <p class="home-role">
-      Atmospheric Sciences · Air Quality Modeling · Data Assimilation
+      Atmospheric Chemistry · Air Quality Modeling · Data Assimilation
     </p>
 
     <p class="home-affiliation">
@@ -51,9 +51,9 @@ title: Home
 
   <p>
     I am a scientist at the <strong>Institute for Atmospheric Sciences and
-    Climate Change (ICAyCC), UNAM</strong>, My research focuses on <strong>atmospheric chemistry, air quality modeling,
-    data assimilation, and computational methods</strong> for understanding and
-    forecasting air pollution in urban and regional environments.
+    Climate Change (ICAyCC), UNAM</strong>. My research focuses on <strong>atmospheric chemistry, air quality modeling,
+    data assimilation</strong> with the aim of developing operational early-warning systems that supports authorities in
+    responding to extreme pollution events and public health decision making.
   </p>
 
   <a class="text-link" href="{{ '/about/' | relative_url }}">
