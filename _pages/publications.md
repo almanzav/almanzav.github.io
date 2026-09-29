@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Publications
 
-My research publications address atmospheric composition, air quality modeling, data assimilation, emissions, pollutant transport, satellite observations, and the interaction between meteorology and air pollution, with particular emphasis on Mexico and the Megalopolis of Central Mexico.
+The research addresses atmospheric composition, air quality modeling, data assimilation, emissions, pollutant transport, satellite observations, and the interaction between meteorology and air pollution, with particular emphasis on Mexico and the Megalopolis of Central Mexico.
 
 ---
 
@@ -272,23 +272,24 @@ Informe Final, Tomo II. Centro de Ciencias de la Atmósfera, UNAM (2015).
 
 ## Manuscripts in Preparation
 
-**Almanza, V., García-Reynoso, A., Wellens, A., Tejeda, D., & Alvarez, M.**  
-*Emissions from Coahuila Carboelectric Power Plant in the US-Mexico Border.*  
-Manuscript in preparation.
+**Almanza, V.**, Maldonado-Pacheco, G., García-Reynoso, A., & Ruiz-Suarez, L. G.  
+*Evaluation of the operational air quality forecasting of Central Mexico.*  
 
-**Almanza, V., Maldonado-Pacheco, G., García-Reynoso, A., & Ruiz-Suarez, L. G.**  
+**Almanza, V.**, García-Reynoso, A., Wellens, A., Tejeda, D., & Alvarez, M. 
+*Emissions from Coahuila Carboelectric Power Plant in the US-Mexico Border.*  
+
+**Almanza, V.**, Maldonado-Pacheco, G., García-Reynoso, A., & Ruiz-Suarez, L. G.  
 *Long-term analysis of air stagnation conditions in the Mexico Megacity during ozone episodes in 2010–2025.*  
-Manuscript in preparation.
 
 ---
 
 ## Book Chapters
 
-**Turrent Thompson, C., Almanza Veloz, V., García Reynoso, A., Domínguez Pérez, A., & Méndez Turrubiates, R.**  
+Turrent Thompson, C., **Almanza Veloz, V**., García Reynoso, A., Domínguez Pérez, A., & Méndez Turrubiates, R. 
 *Escenarios atmosféricos para el transporte de contaminantes desde puntos de emisión en el Golfo de México.*  
 In P. Pérez Brunius, C. Turrent Thompson & P. García Carrillo (Eds.), **Escenarios oceánicos y atmosféricos de un derrame de petróleo en aguas profundas del Golfo de México**, pp. 129–162. Ensenada: CICESE (2020).
 
-**Molina, L. T., Lei, W., Zavala, M., Almanza, V., Garcia, A., Saide, P., & Mena-Carrasco, M.**  
+Molina, L. T., Lei, W., Zavala, M., **Almanza, V.**, Garcia, A., Saide, P., & Mena-Carrasco, M.  
 *Atmospheric Pollution: Experience from Mexico City and Santiago de Chile.*  
 In C. Mensink, W. Gong & A. Hakami (Eds.), **Air Pollution Modeling and its Application XXVI**. Springer Proceedings in Complexity (2018).
 
@@ -296,15 +297,15 @@ In C. Mensink, W. Gong & A. Hakami (Eds.), **Air Pollution Modeling and its Appl
 
 ## Conference Proceedings
 
-**Almanza, V., & García, A.**  
+**Almanza, V.**, & García, A.
 *The COVID-19 lockdown period in the Mexico Megalopolis: impact on Surface SOA and ozone.*  
 20th Annual CMAS Conference, Chapel Hill, NC, 2021.
 
-**Almanza, V., & Batyrshin, I.**  
+**Almanza, V.**, & Batyrshin, I.
 *On trend association analysis of time series of atmospheric pollutants and meteorological variables in Mexico City Metropolitan Area.*  
 In **Lecture Notes in Computer Science**, vol. 6718, pp. 95–102. Springer (2011).
 
-**Muñoz, D. A., Almanza, V., & del-Río, C. J.**  
+Muñoz, D. A., **Almanza, V.**, & del-Río, C. J.
 *Multifractal analysis of aging and complexity in heartbeat time series.*  
 **Medical Physics: Eight Mexican Symposium on Medical Physics**. American Institute of Physics (2004).
 
@@ -312,7 +313,7 @@ In **Lecture Notes in Computer Science**, vol. 6718, pp. 95–102. Springer (201
 
 ## Other Publications
 
-**García-Reynoso, J. A., Almanza-Veloz, V., & Torres-Jardón, R.**  
+García-Reynoso, J. A., **Almanza-Veloz, V.**, & Torres-Jardón, R.
 *La contaminación por ozono en la Ciudad de México: cómo podemos controlarla?*  
 **Enseñanza y Comunicación de las Geociencias**, 2(2), 24–27 (2023).  
 [DOI](https://doi.org/10.22201/cgeo.29928087e.2023.2.2.5)
