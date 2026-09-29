@@ -17,12 +17,16 @@ My research publications address atmospheric composition, air quality modeling, 
 Maldonado-Paccheco, G., **Almanza, V.**, Ruiz-Suárez, L. G., & García-Reynoso, A.  
 *Assimilating chemical observations in the Mexico City Metropolitan Area using WRFDA-Chem.*  
 **Geofísica Internacional**, 65(3), 2359–2376. (2026).
-[DOI](https://doi.org/10.22201/igeof.2954436xe.2026.65.3.1886)
+<a href="https://doi.org/10.22201/igeof.2954436xe.2026.65.3.1886"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 Arellano-Hernández, E.J., **Almanza, V.**, Jazcilevich, A. et al.: 
 *Use of public health benefits to design air pollution emission abatement strategies.* 
 Scientific Reports. 16, 24251 (2026).
-[DOI](https://doi.org/10.1038/s41598-026-55037-3)
+<a href="https://doi.org/10.1038/s41598-026-55037-3"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 ---
 
@@ -31,12 +35,16 @@ Scientific Reports. 16, 24251 (2026).
 Taquet, N., Stremme, W., González del Castillo, M. E., **Almanza, V.**, Bezanilla, A., Laurent, O., Alberti, C., Hase, F., Ramonet, M., Lauvaux, T., Che, K., & Grutter, M.  
 *CO₂ and CO temporal variability over Mexico City from ground-based total column and surface measurements.*  
 **Atmospheric Chemistry and Physics**, 24, 11823–11848 (2024).  
-[DOI](https://doi.org/10.5194/acp-24-11823-2024)
+<a href="https://doi.org/10.5194/acp-24-11823-2024"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 **Almanza, V.**, Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.  
 *Influence of biomass burning on ozone levels in the Megalopolis of Central Mexico during the COVID-19 lockdown.*  
 **Journal of Environmental Sciences**, 143, 99–115 (2024).  
-[DOI](https://doi.org/10.1016/j.jes.2023.07.031)
+<a href="https://doi.org/10.3390/atmos15040437"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 ---
 
@@ -45,14 +53,20 @@ Taquet, N., Stremme, W., González del Castillo, M. E., **Almanza, V.**, Bezanil
 Zavala-Araiza, D., Omara, M., Gautam, R., Smith, M., Pandey, S., Aben, I., **Almanza-Veloz, V.**, et al.  
 *A tale of two regions: Methane emissions from oil and gas production in offshore/onshore Mexico.*  
 **Environmental Research Letters**, 16, 024019 (2021).
+<a href="https://doi.org/10.1088/1748-9326/abceeb"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 ---
 
-### 2014
+### 2012
 
-**Almanza, V. H.**, Molina, L. T., Li, G., Fast, J., & Sosa, G.  
-*Impact of external industrial sources on the regional and local SO₂ and O₃ levels of the Mexico megacity.*  
-**Atmospheric Chemistry and Physics**, 14, 8483–8499 (2014).
+**Almanza, V. H.**, Molina, L. T., & Sosa, G.  
+*Soot and SO₂ contribution to the supersites in the MILAGRO campaign from elevated flares in the Tula Refinery.*  
+**Atmospheric Chemistry and Physics**, 12, 10583–10599 (2012).
+<a href="https://doi.org/10.5194/acp-12-10583-2012"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 ---
 
@@ -67,7 +81,9 @@ The complete list of journal articles and other publications is organized below 
 García, R., Andraca, G. L., Cerón, J. G., Cerón, R. M., Espinosa Fuentes, M. L., Schiavo, B., **Almanza-Veloz, V.**, Barrera-Huertas, H., Torres-Jardón, R., & Mugica-Alvarez, V.  
 *Assessment of Carbonyl Compound Levels in Indoor Environments of Residential Buildings in Mexico City: Case Study on the Effects on Health and Quality of Life During Remote Work.*  
 **Sustainability**, 18(1), 270 (2026).  
-[DOI](https://doi.org/10.3390/su18010270)
+<a href="https://doi.org/10.3390/su18010270"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 ---
 
@@ -76,7 +92,9 @@ García, R., Andraca, G. L., Cerón, J. G., Cerón, R. M., Espinosa Fuentes, M. 
 García, A., & **Almanza, V.**  
 *Advances in Operational Air Quality Forecasting for Mexico City: Integration of Updated Emissions, Temporal Profiles, and Initial Conditions.*  
 **Atmósfera**, 40, 153-165, (2025).  
-[DOI](https://doi.org/10.20937/ATM.53515)
+<a href="(https://doi.org/10.20937/ATM.53515"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 ---
 
@@ -85,17 +103,23 @@ García, A., & **Almanza, V.**
 Taquet, N., Stremme, W., González del Castillo, M. E., **Almanza, V.**, Bezanilla, A., Laurent, O., Alberti, C., Hase, F., Ramonet, M., Lauvaux, T., Che, K., & Grutter, M.  
 *CO₂ and CO temporal variability over Mexico City from ground-based total column and surface measurements.*  
 **Atmospheric Chemistry and Physics**, 24, 11823–11848 (2024).  
-[DOI](https://doi.org/10.5194/acp-24-11823-2024)
+<a href="https://doi.org/10.5194/acp-24-11823-2024"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 **Almanza, V.**, Ruiz-Suárez, G., Torres-Jardón, R., García-Reynoso, A., & Hernández-Paniagua, I. Y.  
 *Influence of biomass burning on ozone levels in the Megalopolis of Central Mexico during the COVID-19 lockdown.*  
-**Journal of Environmental Sciences**, 143, 99–115 (2024).  
-[DOI](https://doi.org/10.1016/j.jes.2023.07.031)
+**Journal of Environmental Sciences**, 143, 99–115 (2024).
+<a href="https://doi.org/10.1016/j.jes.2023.07.031"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 García, A., **Almanza, V.**, Tejeda, D., & Alvarado-Castillo, M.  
 *Impact of the No-Driving Day Program on Air Quality in a High-Altitude Tropical City: The Case of the Toluca Valley Metropolitan Area.*  
 **Atmosphere**, 15, 437 (2024).  
-[DOI](https://doi.org/10.3390/atmos15040437)
+<a href="https://doi.org/10.3390/atmos15040437"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 ---
 
@@ -112,10 +136,16 @@ García, A., **Almanza, V.**, Tejeda, D., & Alvarado-Castillo, M.
 Zavala-Araiza, D., Omara, M., Gautam, R., Smith, M., Pandey, S., Aben, I., **Almanza-Veloz, V.**, Conley, S., Houweling, S., Kort, E., Maasakkers, J., Molina, L., Pusuluri, A., Scarpelli, T., Schwietzke, S., Shen, L., Zavala, M., & Hamburg, S.  
 *A tale of two regions: Methane emissions from oil and gas production in offshore/onshore Mexico.*  
 **Environmental Research Letters**, 16, 024019 (2021).
+<a href="https://doi.org/10.1088/1748-9326/abceeb"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 Hernandez-Paniagua, I., Valdez, I., **Almanza, V.**, Rivera, C., Grutter, M., Stremme, W., García, A., & Ruiz-Suarez, L. G.  
 *Impact of the COVID-19 Lockdown on Air Quality and Resulting Public Health Benefits in the Mexico City Metropolitan Area.*  
 **Frontiers in Public Health**, 9, 642630 (2021).
+<a href="https://doi.org/10.3389/fpubh.2021.642630"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 ---
 
@@ -140,6 +170,10 @@ Salcedo, D., Castro, T., Bernal, J. P., **Almanza-Veloz, V.**, Zavala, M., Gonz�
 **Almanza, V. H.**, Molina, L. T., Li, G., Fast, J., & Sosa, G.  
 *Impact of external industrial sources on the regional and local SO₂ and O₃ levels of the Mexico megacity.*  
 **Atmospheric Chemistry and Physics**, 14, 8483–8499 (2014).
+<a href="https://doi.org/10.5194/acp-14-8483-2014"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
+
 
 **Almanza, V. H.**, Batyrshin, I., & Sosa, G.  
 *Multi-criteria selection of an air quality model configuration based on quantitative and linguistic evaluations.*  
@@ -152,6 +186,9 @@ Salcedo, D., Castro, T., Bernal, J. P., **Almanza-Veloz, V.**, Zavala, M., Gonz�
 **Almanza, V. H.**, Molina, L. T., & Sosa, G.  
 *Soot and SO₂ contribution to the supersites in the MILAGRO campaign from elevated flares in the Tula Refinery.*  
 **Atmospheric Chemistry and Physics**, 12, 10583–10599 (2012).
+<a href="https://doi.org/10.5194/acp-12-10583-2012"
+   target="_blank"
+   rel="noopener noreferrer">DOI</a>
 
 ---
 
@@ -230,13 +267,6 @@ Preparado para LARCI (2016).
 Instituto Nacional de Ecología y Cambio Climático (INECC): Molina, L., Zavala, M., Lei, W., de Foy, B., **Almanza, V.**  
 *Estudios de Calidad del Aire y su Impacto en la Región Centro de México (ECAIM).*  
 Informe Final, Tomo II. Centro de Ciencias de la Atmósfera, UNAM (2015).
-
-## Under Review
-
-**Arellano-Hernández, J., Almanza, V., Jazcilevich, A., Rojas-Rueda, D., Ruiz-Suárez, L. G., García, A., & Hernández-Paniagua, I. Y.**  
-*Use of public health benefits to design air pollution emission abatement strategies.*  
-**Scientific Reports**.  
-Under review, November 2025.
 
 ---
 
